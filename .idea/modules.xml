@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Data enrichment.iml" filepath="$PROJECT_DIR$/.idea/Data enrichment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data_enrichment.iml" filepath="$PROJECT_DIR$/.idea/data_enrichment.iml" />
     </modules>
   </component>
 </project>
