@@ -48,7 +48,8 @@ def sratch_dict():
             # soup bs4
             data = BeautifulSoup(req_data.text, 'html.parser')
             for words in data.find('div', attrs={'class': 'prp-pages-output'}).find_all('p'):
-                word = [s for s in words.text.split('—')]
+                word = [s for s in re.split(r"—|--", words.text)]
+                print(word)
                 # cleaning
                 word[0] = word[0].replace('\n', '')
                 word[-1] = word[-1].replace('\n', '')
