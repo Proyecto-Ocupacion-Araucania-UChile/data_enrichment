@@ -6,14 +6,14 @@ import spacy
 import re
 
 
-def type_words(words):
+def type_words(word):
     nlp = spacy.load("es_core_news_md")
-    doc = nlp(words)
+    doc = nlp(word)
     for token in doc:
         if token.i != 0:
             token_prev = doc[token.i - 1]
             if token.pos_ == "PROPN" and token_prev.pos_ == "PUNCT":
-                return token.lemma
+                return token.lemma_
 
 @click.command()
 def sratch_dict():
@@ -21,63 +21,84 @@ def sratch_dict():
     https://www.wikidata.org/wiki/Q5483159?uselang=es
     https://www.crummy.com/software/BeautifulSoup/bs4/doc/#descendants
     https://www.w3schools.com/cssref/css_selectors.asp
+    Some dictionary entries are divided over several pages. The html model does not allow to parse and retrieve both pages. Only the last page has been kept.
     """
 
-    index = ["A", "B", "C", "Ch", "D", "E", "F", "G", "H", "I", "J", "K", "L", "Ll" ,"M" , "N", "Ñ", "O", "P", "Q", "R", "S",
-             "T", "U", "V", "W", "Y", "Z"]
+    # Variables
+    global list_page
+    n, page_n = 0, 1
     url_base = "https://es.wikisource.org/wiki/Diccionario_Geogr%C3%A1fico_de_la_Rep%C3%BAblica_de_Chile/"
 
-    n = 0
-    page_n = 1
+    # Objects
+    dictionary, dictionary_geo = {}, {}
+    index = ["A", "B", "C", "Ch", "D", "E", "F", "G", "H", "I", "J", "K", "L", "Ll", "M", "N", "Ñ", "O", "P", "Q", "R",
+             "S", "T", "U", "V", "W", "Y", "Z"]
 
-    dictionary = {}
-    dictionary_geo = {}
-
+    # REGEX
     nature = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿ ]+\([A-Za-zÀ-ÖØ-öø-ÿ .-]+\)")
 
     for letter in index:
-        req_data = requests.get(url_base+letter)
+        # Requests http
+        req_data = requests.get(url_base + letter)
         req_data.encoding = 'UTF-8'
+        # Verify status
         if req_data.status_code == 200:
             n += 1
             print("__ page __ " + letter)
+            # soup bs4
             data = BeautifulSoup(req_data.text, 'html.parser')
             for words in data.find('div', attrs={'class': 'prp-pages-output'}).find_all('p'):
                 word = [s for s in words.text.split('—')]
-                word[0].replace('\\n', '')
-                word[-1].replace('\\n', '')
-                word[0] = word[0].replace(".-", "")
-                word[0] = word[0].replace(".", "")
+                # cleaning
+                word[0] = word[0].replace('\n', '')
+                word[-1] = word[-1].replace('\n', '')
+                word[0] = word[0].replace('.-', '')
+                #Careful cleaning
+                letters = [s for s in word[0]]
+                if "-" in letters[-2:] and "-" not in letters[-3]:
+                    word[0] = word[0].replace('-', '')
+                if "." in letters[-2:] and "." not in letters[-3]:
+                    word[0] = word[0].replace('.','')
+                # select page number
                 if words.find('span', attrs={'class': 'pagenum'}):
                     input_data = words.find('span', attrs={'class': 'pagenum'})
                     page_n = input_data['id']
+                # management several keys
                 if word[0] in dictionary_geo:
                     type_word = dictionary_geo[word[0]]["type"]
 
                     # Operation definition items
-                    if dictionary_geo[word[0]]["definition"] is not list:
-                        list_def = [dictionary_geo[word[0]]["definition"], word[-1]]
+                    if isinstance(dictionary_geo[word[0]]["definition"], list):
+                        list_def = dictionary_geo[word[0]]["definition"]
+                        list_def.append(word[-1])
                     else:
-                        list_def = dictionary_geo[word[0]]["definition"].append(word[-1])
+                        list_def = [dictionary_geo[word[0]]["definition"], word[-1]]
 
-                    #Operation page items
-                    if page_n != dictionary_geo[word[0]]["page"] and dictionary_geo[word[0]]["page"] is not list:
+                    # Operation page items
+                    if isinstance(dictionary_geo[word[0]]["page"], list) is False and page_n != dictionary_geo[word[0]]["page"]:
                         list_page = [dictionary_geo[word[0]]["page"], page_n]
-                    elif dictionary_geo[word[0]]["page"] is list:
-                        list_page = dictionary_geo[word[0]]["page"].append(page_n)
+                    # Operation to add item in list if not exist or pass
+                    elif isinstance(dictionary_geo[word[0]]["page"], list) is True:
+                        if str(page_n) not in dictionary_geo[word[0]]["page"]:
+                            list_page = dictionary_geo[word[0]]["page"]
+                            list_page.append(page_n)
                     else:
                         list_page = page_n
 
+                    # modele dict
                     dictionary_word = {
                         "type": type_word,
                         "definition": list_def,
                         "page": list_page
                     }
+                # Entry new key
                 else:
+                    # Optimization to NLP process
                     if re.match(nature, word[0]):
                         type_word = type_words(word[0])
                     else:
-                        type_word = "n.c."
+                        type_word = None
+
                     dictionary_word = {
                         "type": type_word,
                         "definition": word[-1],
@@ -85,17 +106,18 @@ def sratch_dict():
                     }
                 dictionary_geo[word[0]] = dictionary_word
         dictionary[letter] = dictionary_geo
-        #reinitialisation dict
+        # reinitialisation dict
         dictionary_geo = {}
 
+    # Write json
     with open("Diccionario_Geografico_Republica_Chile/diccionario.json", mode="w") as f:
         json.dump(dictionary, f, indent=3, ensure_ascii=False)
 
-    print(dictionary["H"]["Huenutil"]["page"])
-
+    # TEST
     assert n == 28, "One or more url doesn't works !"
     assert len(dictionary["H"]["Huentemó"]["definition"]) == 2, "Error indexation multi definition"
     assert len(dictionary["I"]["Incaguasi"]["page"]) == 2, "Error indexation multi page to definition"
+
 
 if __name__ == '__main__':
     sratch_dict()

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2dbcd8f-2cea-401f-b9f2-e8d7a955eb2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/data_enrichment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data enrichment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diccionario_Geografico_Republica_Chile/diccionario.json" beforeDir="false" afterPath="$PROJECT_DIR$/Diccionario_Geografico_Republica_Chile/diccionario.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wikisource.py" beforeDir="false" afterPath="$PROJECT_DIR$/wikisource.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
