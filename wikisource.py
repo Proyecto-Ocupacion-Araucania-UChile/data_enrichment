@@ -7,6 +7,11 @@ import re
 
 
 def type_words(word):
+    """
+    function to return lemma of world to describe nature of key word dictionary
+    :param word: str
+    :return: lemma_
+    """
     nlp = spacy.load("es_core_news_md")
     doc = nlp(word)
     for token in doc:
@@ -18,10 +23,11 @@ def type_words(word):
 @click.command()
 def sratch_dict():
     """
-    https://www.wikidata.org/wiki/Q5483159?uselang=es
-    https://www.crummy.com/software/BeautifulSoup/bs4/doc/#descendants
-    https://www.w3schools.com/cssref/css_selectors.asp
-    Some dictionary entries are divided over several pages. The html model does not allow to parse and retrieve both pages. Only the last page has been kept.
+    Function to scratch "Diccionario Geográfico de la República de Chile" in wikisource and tranform it in JSON
+    Some dictionary entries are divided over several pages. The html model does not allow to parse and retrieve both
+    pages. Only the last page has been kept.
+    :url: https://es.wikisource.org/wiki/Diccionario_Geogr%C3%A1fico_de_la_Rep%C3%BAblica_de_Chile/A
+    :return: JSON
     """
 
     # Variables
@@ -49,7 +55,6 @@ def sratch_dict():
             data = BeautifulSoup(req_data.text, 'html.parser')
             for words in data.find('div', attrs={'class': 'prp-pages-output'}).find_all('p'):
                 word = [s for s in re.split(r"—|--", words.text)]
-                print(word)
                 # cleaning
                 word[0] = word[0].replace('\n', '')
                 word[-1] = word[-1].replace('\n', '')
@@ -60,6 +65,9 @@ def sratch_dict():
                     word[0] = word[0].replace('-', '')
                 if "." in letters[-2:] and "." not in letters[-3]:
                     word[0] = word[0].replace('.','')
+                #clean white space
+                word[0] = word[0].strip()
+                word[-1] = word[-1].strip()
                 # select page number
                 if words.find('span', attrs={'class': 'pagenum'}):
                     input_data = words.find('span', attrs={'class': 'pagenum'})
