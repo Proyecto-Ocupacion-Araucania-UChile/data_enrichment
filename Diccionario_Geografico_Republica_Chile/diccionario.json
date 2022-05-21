@@ -1,4 +1,5 @@
-{
+[
+   {
    "A": {
       "Aaú (Canal de)": {
          "type": "Canal",
@@ -97,9 +98,9 @@
          "definition": "Comarca del departamento de San Felipe en su parte oriental y en que se halla la aldea de San Esteban.",
          "page": "5"
       },
-      "Aculeo (Laguna de)Hermoso receptáculo de agua dulce, situado en el departamento de Maipo por los 33º 50' Lat y 70º 50' Lon á 20 ó 22 kilómetros hacia el SO, de la villa de Buín y unos 15 hacia el O de la estación del Hospital en el ferrocarril de Santiago al sur Ocupa una extensa hondonada á la base oriental de las sierras, que se levantan al O de esos puntos y que se enlazan al S con la de Alhué Su superficie, que se halla á 382 metros de altitud, se extiende de E á O por unos cuatro á cinco kilómetros, con un ancho á sus extremos de poco menos de tres y en el centro más estrecha, ofreciendo la figura aproximada á una ampolleta ó reloj de arena En el cuerpo occidental tiene dos pintorescas islillas Resguardada por las alturas que casi enteramente la rodean es de aguas muy tranquilas, en las que abundan delicados pejerreyes y variedad de aves acuáticas, notándose entre estas los cisnes de cuello negro Sus riberas se abren en terrenos feraces y cultivados El nombre es contracción de aculn, hacer llegar, y de leuvu, rio": {
+      "Aculeo (Laguna de)": {
          "type": "Laguna",
-         "definition": "Aculeo (Laguna de)Hermoso receptáculo de agua dulce, situado en el departamento de Maipo por los 33º 50' Lat y 70º 50' Lon á 20 ó 22 kilómetros hacia el SO, de la villa de Buín y unos 15 hacia el O de la estación del Hospital en el ferrocarril de Santiago al sur Ocupa una extensa hondonada á la base oriental de las sierras, que se levantan al O de esos puntos y que se enlazan al S con la de Alhué Su superficie, que se halla á 382 metros de altitud, se extiende de E á O por unos cuatro á cinco kilómetros, con un ancho á sus extremos de poco menos de tres y en el centro más estrecha, ofreciendo la figura aproximada á una ampolleta ó reloj de arena En el cuerpo occidental tiene dos pintorescas islillas Resguardada por las alturas que casi enteramente la rodean es de aguas muy tranquilas, en las que abundan delicados pejerreyes y variedad de aves acuáticas, notándose entre estas los cisnes de cuello negro Sus riberas se abren en terrenos feraces y cultivados El nombre es contracción de aculn, hacer llegar, y de leuvu, rio",
+         "definition": "Hermoso receptáculo de agua dulce, situado en el departamento de Maipo por los 33º 50' Lat y 70º 50' Lon á 20 ó 22 kilómetros hacia el SO, de la villa de Buín y unos 15 hacia el O de la estación del Hospital en el ferrocarril de Santiago al sur Ocupa una extensa hondonada á la base oriental de las sierras, que se levantan al O de esos puntos y que se enlazan al S con la de Alhué Su superficie, que se halla á 382 metros de altitud, se extiende de E á O por unos cuatro á cinco kilómetros, con un ancho á sus extremos de poco menos de tres y en el centro más estrecha, ofreciendo la figura aproximada á una ampolleta ó reloj de arena En el cuerpo occidental tiene dos pintorescas islillas Resguardada por las alturas que casi enteramente la rodean es de aguas muy tranquilas, en las que abundan delicados pejerreyes y variedad de aves acuáticas, notándose entre estas los cisnes de cuello negro Sus riberas se abren en terrenos feraces y cultivados El nombre es contracción de aculn, hacer llegar, y de leuvu, rio",
          "page": "6"
       },
       "Acuy": {
@@ -976,12 +977,7 @@
       },
       "Andalién": {
          "type": null,
-         "definition": "Río de la provincia de Concepción, que se forma principalmente de los derrames de los cerros próximos al N. y NE. de la ciudad de la Florida, que se reunen al riachuelo de Curapalihue á poca distancia hacia el O. de esa ciudad. De aquí sigue un curso algo tortuoso hacia el NO., al través de lomas más ó menos altas y á lo largo de angostos valles, hasta la inmediación del costado nordeste de la ciudad de Concepción, donde lo cruza un puente de hierro y madera de 147 metros de longitud, construido en 1884; desde donde prosigue hacia el N. para ir á echarse en la bahía de Talcahuano á poco más de un kilómetro al O. de Penco, formando al borde de la playa unas prolongadas lagunas; véase Rocuant. Es de poco caudal y de curso que no pasa de 60 á 65 kilómetros, y de riberas cultivables, en especial por donde se abren los valles denominados de Palomares, Puchacay, Toncón, &c. A sus orillas, como á 10 ó 13 kilómetros hacia el E. de Penco, se encontró el gobernador, Pedro de Valdivia por primera vez, 24 de febrero de 1550, con los araucanos, quien, según Ercilla,",
-         "page": "32"
-      },
-      "Este río toma en varias secciones la denominación del valle que atraviesa, como de Palomares, Puchacay, &c, y, aún en la inferior, se le llamó al principio de la conquista río de San Pedro, en obsequio de dicho gobernador El título de Andalién es el general y común, formado de anca, cuerpo, y de lighen (cuerpo de plata); «aunque su nombre propio», dice el P Rosales, «es Antulien, que quiere decir plata de sol» {antu ó anty, el sol)": {
-         "type": null,
-         "definition": "Este río toma en varias secciones la denominación del valle que atraviesa, como de Palomares, Puchacay, &c, y, aún en la inferior, se le llamó al principio de la conquista río de San Pedro, en obsequio de dicho gobernador El título de Andalién es el general y común, formado de anca, cuerpo, y de lighen (cuerpo de plata); «aunque su nombre propio», dice el P Rosales, «es Antulien, que quiere decir plata de sol» {antu ó anty, el sol)",
+         "definition": "Río de la provincia de Concepción, que se forma principalmente de los derrames de los cerros próximos al N. y NE. de la ciudad de la Florida, que se reunen al riachuelo de Curapalihue á poca distancia hacia el O. de esa ciudad. De aquí sigue un curso algo tortuoso hacia el NO., al través de lomas más ó menos altas y á lo largo de angostos valles, hasta la inmediación del costado nordeste de la ciudad de Concepción, donde lo cruza un puente de hierro y madera de 147 metros de longitud, construido en 1884; desde donde prosigue hacia el N. para ir á echarse en la bahía de Talcahuano á poco más de un kilómetro al O. de Penco, formando al borde de la playa unas prolongadas lagunas; véase Rocuant. Es de poco caudal y de curso que no pasa de 60 á 65 kilómetros, y de riberas cultivables, en especial por donde se abren los valles denominados de Palomares, Puchacay, Toncón, &c. A sus orillas, como á 10 ó 13 kilómetros hacia el E. de Penco, se encontró el gobernador, Pedro de Valdivia por primera vez, 24 de febrero de 1550, con los araucanos, quien, según Ercilla, Una batalla tuvo aqui sangrienta. Donde á punto llegó de ser perdido.Este río toma en varias secciones la denominación del valle que atraviesa, como de Palomares, Puchacay, &c, y, aún en la inferior, se le llamó al principio de la conquista río de San Pedro, en obsequio de dicho gobernador El título de Andalién es el general y común, formado de anca, cuerpo, y de lighen (cuerpo de plata); «aunque su nombre propio», dice el P Rosales, «es Antulien, que quiere decir plata de sol» {antu ó anty, el sol)",
          "page": "32"
       },
       "Andaribel": {
@@ -996,13 +992,8 @@
       },
       "Andes (Cordillera de los)": {
          "type": "Cordillera",
-         "definition": "El vasto espinazo de la América ó la gran cadena de altas y nevosas sierras, cercana y casi paralela á la costa del Pacífico. Su nombre, que, á la época del descubrimiento del Perú, se aplicaba sólo á la sección de su territorio y regiones al sur, se supone ser corrupción de Antis, denominación de unas familias de indios, que habitaban la pendiente oriental de esos montes en la parte de Bolivia, ó bien de la de anta, palabra del quichua ó idioma de los Incas, que significa cobre ó metal en general, aludiendo á la abundancia que de él esos montes contienen. Respecto á Chile, la sección de esa cadena de montañas que le corresponde, principia por los 18° 40' Lat. y corre de N. á S. hasta el cabo de Santa Agueda sobre el estrecho de Magallanes, y aún podría decirse que remata en las islas del cabo de Hornos. Su estructura y configuración orográficas no están aun bien determinadas[3], y sólo puede asentarse, en general, que consta de un encadenamiento de sierras tendidas sobre el meridiano, con inclinación al SO., compuestas de rocas estratificadas y metamórficas, solevantadas por otras eruptivas á impulso de la acción volcánica, que en un tiempo ha debido ser poderosísima. De sus nudos principales se desprenden al O. ramificaciones, que al N. de Chacabuco, se entretejen con la cadena de sierras intermedias ó montañas secundarias de la costa, y que al S. del mismo Chacabuco, rara vez se aproximan á éstas. El ancho medio de aquella cadena no baja de unos cien kilómetros, abierta en dos ramas primordiales hacia el N., interrumpida ligeramente en partes al S. y casi compacta en el centro, donde presenta su mayor prominencia en los montes de Aconcagua, Mercenario, Tupungato, &c.; dejando entre sus ramas laterales, y transversales altas planicies, prolongados valles, abras y profundas y anchas quebradas, que recogen las aguas de sus ventisqueros y mantos de nieve, que forman lagos más ó menos grandes y son fuentes de los principales ríos de Chile. Sobre su plano ó llanura opuesta al occidente, resalta el encumbrado y grandioso relieve de esta cordillera, descollando en él diversos cabezos y picos cubiertos de perpetuas nieves. De éstos, casi todos quizás, respiraderos volcánicos en épocas remotas, y que hoy solo pocos mantienen ese carácter, aunque varios dan aún signos de actividad por fumorolas y aguas termales á su base. Los más notables por su altitud son los siguientes:",
-         "page": "33"
-      },
-      "boquetes, por donde se atraviesa este gigantesco valladar, subiéndose por abras y gargantas pendientes á su teso ó cumbre y descendiendo de ella al lado opuesto por gradual declive Los más ó menos transitables y conocidos, de norte á sur, son los denominados de Tacora, Camarones, Isluga, Sibaya, Sillillica, Guatacondo, Ascotán, Antofagasta de la Sierra, Paipote ó Puquios, Comecaballos, Tránsito ó Naturales, Españoles ó del Carmen, Laguna de Elqui, Hurtado, Valle Hermoso, Calderón, Cuncumén, Patos ó Piuquenes, Uspallata, San José de Maipo ó Piuquenes de Maipo, Yeso, Tinguiririca, Teno ó Planchón, Lontué ó Mondaca, Barrancas ó Laguna del Maule, Alico, Antuco ó Pichachén, Trapa-trapa, Gualletué, Villa Rica, Ranco, Pérez-Rosales, cabeceras de los ríos Aisen y Huemules, &c": {
-         "type": null,
-         "definition": "boquetes, por donde se atraviesa este gigantesco valladar, subiéndose por abras y gargantas pendientes á su teso ó cumbre y descendiendo de ella al lado opuesto por gradual declive Los más ó menos transitables y conocidos, de norte á sur, son los denominados de Tacora, Camarones, Isluga, Sibaya, Sillillica, Guatacondo, Ascotán, Antofagasta de la Sierra, Paipote ó Puquios, Comecaballos, Tránsito ó Naturales, Españoles ó del Carmen, Laguna de Elqui, Hurtado, Valle Hermoso, Calderón, Cuncumén, Patos ó Piuquenes, Uspallata, San José de Maipo ó Piuquenes de Maipo, Yeso, Tinguiririca, Teno ó Planchón, Lontué ó Mondaca, Barrancas ó Laguna del Maule, Alico, Antuco ó Pichachén, Trapa-trapa, Gualletué, Villa Rica, Ranco, Pérez-Rosales, cabeceras de los ríos Aisen y Huemules, &c",
-         "page": "33"
+         "definition": "El vasto espinazo de la América ó la gran cadena de altas y nevosas sierras, cercana y casi paralela á la costa del Pacífico. Su nombre, que, á la época del descubrimiento del Perú, se aplicaba sólo á la sección de su territorio y regiones al sur, se supone ser corrupción de Antis, denominación de unas familias de indios, que habitaban la pendiente oriental de esos montes en la parte de Bolivia, ó bien de la de anta, palabra del quichua ó idioma de los Incas, que significa cobre ó metal en general, aludiendo á la abundancia que de él esos montes contienen. Respecto á Chile, la sección de esa cadena de montañas que le corresponde, principia por los 18° 40' Lat. y corre de N. á S. hasta el cabo de Santa Agueda sobre el estrecho de Magallanes, y aún podría decirse que remata en las islas del cabo de Hornos. Su estructura y configuración orográficas no están aun bien determinadas[3], y sólo puede asentarse, en general, que consta de un encadenamiento de sierras tendidas sobre el meridiano, con inclinación al SO., compuestas de rocas estratificadas y metamórficas, solevantadas por otras eruptivas á impulso de la acción volcánica, que en un tiempo ha debido ser poderosísima. De sus nudos principales se desprenden al O. ramificaciones, que al N. de Chacabuco, se entretejen con la cadena de sierras intermedias ó montañas secundarias de la costa, y que al S. del mismo Chacabuco, rara vez se aproximan á éstas. El ancho medio de aquella cadena no baja de unos cien kilómetros, abierta en dos ramas primordiales hacia el N., interrumpida ligeramente en partes al S. y casi compacta en el centro, donde presenta su mayor prominencia en los montes de Aconcagua, Mercenario, Tupungato, &c.; dejando entre sus ramas laterales, y transversales altas planicies, prolongados valles, abras y profundas y anchas quebradas, que recogen las aguas de sus ventisqueros y mantos de nieve, que forman lagos más ó menos grandes y son fuentes de los principales ríos de Chile. Sobre su plano ó llanura opuesta al occidente, resalta el encumbrado y grandioso relieve de esta cordillera, descollando en él diversos cabezos y picos cubiertos de perpetuas nieves. De éstos, casi todos quizás, respiraderos volcánicos en épocas remotas, y que hoy solo pocos mantienen ese carácter, aunque varios dan aún signos de actividad por fumorolas y aguas termales á su base. Tienen también entre ellos estos montes pasos llamados portillos y boquetes, por donde se atraviesa este gigantesco valladar, subiéndose por abras y gargantas pendientes á su teso ó cumbre y descendiendo de ella al lado opuesto por gradual declive Los más ó menos transitables y conocidos, de norte á sur, son los denominados de Tacora, Camarones, Isluga, Sibaya, Sillillica, Guatacondo, Ascotán, Antofagasta de la Sierra, Paipote ó Puquios, Comecaballos, Tránsito ó Naturales, Españoles ó del Carmen, Laguna de Elqui, Hurtado, Valle Hermoso, Calderón, Cuncumén, Patos ó Piuquenes, Uspallata, San José de Maipo ó Piuquenes de Maipo, Yeso, Tinguiririca, Teno ó Planchón, Lontué ó Mondaca, Barrancas ó Laguna del Maule, Alico, Antuco ó Pichachén, Trapa-trapa, Gualletué, Villa Rica, Ranco, Pérez-Rosales, cabeceras de los ríos Aisen y Huemules, &c",
+         "page": "33, 34"
       },
       "Andes (Departamento de)": {
          "type": "Departamento",
@@ -1732,11 +1723,6 @@
       "Azul (Cerro).": {
          "type": "Cerro",
          "definition": "Véase Cerro Azul.",
-         "page": "64"
-      },
-      "": {
-         "type": null,
-         "definition": "",
          "page": "64"
       }
    },
@@ -7949,11 +7935,6 @@
          "type": null,
          "definition": "Fundo del departamento de Carelmapu, situado en la ribera sur del río Maullín tres ó cuatro kilómetros al E. de la villa del mismo nombre del río. Hállase inmutado el nombre en Chullacán.",
          "page": "248"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "248"
       }
    },
    "D": {
@@ -10929,7 +10910,7 @@
          "definition": "Fundo antiguo y extenso del departamento de Illapel que se halla en la banda izquierda del río de este nombre á cuatro ó cinco kilómetros de su capital. Hacia el N., en la ribera opuesta del río, queda el caserío de Huintil.",
          "page": "328"
       },
-      "Illapel (Río de).": {
+      "Illapel (Río de)": {
          "type": "Río",
          "definition": "Corre por el departamento de su nombre y tiene nacimiento en los Andes por donde se levanta el cerro Cenicero, desde donde se dirige hacia el SO. á confluir con el Chuapa á 15 kilómetros más abajo de la ciudad de Illapel y al cabo de unos 75 de curso ligeramente rápido en su sección inferior. En su parte superior corre estrechado entre cerros altos y fragosos, pero luego se abren sus riberas y se tienden en un fértil valle en el que esta asentada dicha ciudad y se cubre de importantes cultivos. Es de poco caudal, y tiene los pequeños afluentes de Aucó, Caren y otros arroyos. Su valle estuvo habitado, desde antes de la entrada de los españoles al país, por indios de la antigua raza del Perú ó de los Incas y de su idioma proviene talvez el nombre por la aünidad que se nota entre él y voces quichuas.",
          "page": "328"
@@ -11310,11 +11291,6 @@
          "type": null,
          "definition": "Véase Isquiliac.",
          "page": "340"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "340"
       }
    },
    "J": {
@@ -11563,13 +11539,7 @@
             "Caserío de pocos habitantes y arboledas al rededor que se halla en el departamento de Vallenar bajo la confluencia de los riachuelos que principalmente forman el río Guasco. Dista unos 45 kilómetros hacia el SE. de la ciudad de Vallenar, y está situado por los 28° 48' Lat. y 70° 24' Lon."
          ],
          "page": "348"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "348"
-      }
-   },
+      }   },
    "K": {
       "Kater (Pico de)": {
          "type": "Pico",
@@ -11604,11 +11574,6 @@
       "King (Cabo de)": {
          "type": "Cabo",
          "definition": "Promontorio alto saliente al estrecho de Magallanes en su costa ó lado norte, situado en los 52º 24' Lat. y 74° 45' Lon., frente al N. del cabo de Pilares y al E. de las islas de los Evangelistas. Lleva el nombre por el explorador de quien también lo toma el cabo Felipe.",
-         "page": "350"
-      },
-      "": {
-         "type": null,
-         "definition": "",
          "page": "350"
       }
    },
@@ -13169,11 +13134,6 @@
          "type": null,
          "definition": "Aldea del departamento de Arica situada en la extremidad occidental del valle de su nombre ó de Chacalluta á 11 kilómetros hacia el NE. de su capital ó el puerto de Arica. Es de pocos habitantes y tiene contiguos pequeños huertos.",
          "page": "399"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "399"
       }
    },
    "M": {
@@ -13249,168 +13209,41 @@
       },
       "Magallanes (Estrecho de)": {
          "type": "Estrecho",
-         "definition": "Célebre canal que separa la extremidad continental de la América del archipiélago de la Tierra del Fuego, comunicando los océanos Pacífico y Atlántico, bajo los paralelos 52° 12' y 52° 22' Lat. respectivamente. En su corrida del uno al otro mar forma una especie de ángulo obtuso, cuyo vértice vuelto al S., se halla en el cabo de Froward ó de Santa Águeda. Se dirige, pues, desde el desembocadero del Pacífico casi directamente al SE. hasta dicho cabo por un espacio de 274 kilómetros con trechos ó pasos angostos y tortuosos; desde el mismo cabo, ó más bien desde el inmediato de San Isidro hasta la Segunda Angostura, corre al N. una extensión de 152 kilómetros; y desde aquí continúa hacia el NE. y al E. por otros 166 hasta su salida al Atlántico. Por consiguiente, su longitud de extremo á extremo, ó sea entre los cabos de Pilares y de las Virgenes, es de 592 kilómetros. Esta ha sido estimada en 1580 por el capitán Pedro Sarmiento de Gamboa en 110 leguas marinas; por el inglés Narborough, 1670, en 116; y en 107 por Don Antonio de Córdoba, comandante de la fragata «Santa María de la Cabeza», en 1786. El comandante Enrique Trollope, del buque inglés «Rattlesnake», que lo pasó en ocho dias á mediados de mayo de 1853, le asigna 312 millas marinas, y el capitán Ricardo C. Mayne, comandante del «Nassau», que lo exploró en 1867, le da una extensión de 320 millas, que apenas difiere de la de Córdoba. Esta distancia es la navegable; mas, la en línea recta, desde el cabo de Pilares al de las Virgenes, no excede de 240 millas marinas ó 445 kilómetros. Su anchura, por término medio, es de cinco á seis kilómetros en más de la mitad de su longitud; pero en partes se abre en mayor extensión, como sucede á sus entradas del Pacífico y Atlántico, y frente á las bahías Inútil, de Gente Grande, de Santiago y de la Posesión, y á las bocas de los canales de Smyth, de Santa Bárbara y de la Magdalena; y en otras se reduce á un angosto trecho, como en los trayectos de Paso Largo, Brazo Tortuoso y Segunda y Primera Angostura. De su costa norte ó continental salen los canales de Smyth y de San Jerónimo, y de la austral, los de Córdoba, Santa Bárbara y de la Magdalena, abriéndose en las mismas costas varios y diversos puertos, radas y caletas y echándose en ella algunas corrientes cortas de agua, como el río de San Juan, &c. Dentro de su cauce contiene las islas de Carlos III., de Isabel, Magdalena, Marta y algunas pequeñas. Es un interesante brazo de mar que en todo su largor ostenta múltiple variedad de bellezas naturales y pintorescas vistas, aunque en su aspecto y carácter esenciales forman dos secciones distintas. La occidental, desde el Pacífico hasta Cabo Negro, más arriba del puerto de Punta Arenas, es de riberas montuosas y cubiertas de arbolado, de márgenes altas, acantiladas y abiertas en sucesivas pequeñas abras y caletas y de frecuentes vientos occidentales que le traen tiempo oscuro y lluvioso. La sección oriental es de condiciones diferentes á la anterior. Desde el Cabo Negro hasta el Atlántico, las riberas del estrecho pierden el carácter montañoso; desaparecen los árboles y arbustos, son más bajas y se convierten, en general, en lomas y en llanuras herbosas que van á confundirse hacia el N. con las monótonas pampas patagónicas, de cuyo carácter en algo participa el lado opuesto de la isla grande de la Tierra del Fuego; sus costas son más playadas, el canal más aplacerado y con algunos bancos y bajos, siendo en esta sección el cielo más despejado y más escasas las lluvias. La navegación del estrecho, aunque no peligrosa, es para buques de vela difícil y tardía por los vientos contrarios; pero bajo todos respecto, dice el capitán Mayne, es segura para vapores. Este estrecho fué descubierto por Fernando de Magallanes en 1520 y de él toma la denominación; y así dice Ercilla, en su Araucana:",
-         "page": "402"
-      },
-      "Y aunque este navegante lo denominó estrecho de Todos los Santos y Sarmiento, de la Madre de Dios, el uso, sin embargo, le ha consagrado aquella denominación por el apellido de su descubridor. Las expediciones más notables que lo han atravesado de cabo á cabo, son:": {
-         "type": null,
-         "definition": "Y aunque este navegante lo denominó estrecho de Todos los Santos y Sarmiento, de la Madre de Dios, el uso, sin embargo, le ha consagrado aquella denominación por el apellido de su descubridor. Las expediciones más notables que lo han atravesado de cabo á cabo, son:",
-         "page": "402"
-      },
-      "1ª La de Magallanes, compuesta de las naos Trinidad, San Antonio, Concepción, Victoria y Santiago, que partió de Sanlúcar de Barrameda el 20 de setiembre de 1519 Después de detenciones en la costa del Brasil, en la boca del Río de la Plata, en el puerto de San Julián y de Santa Cruz de la costa del Atlántico descubrió el 21 de octubre de 1520 el cabo que nombró de las Vírgenes; reconoció esta entrada del estrecho, penetró en él con tres de esas naves el 6 de noviembre siguiente, y salió al Pacifico el 27 del mismo mes, habiéndose perdido antes la Santiago y desertado la de San Antonio De aquí dirigióse Magallanes hacia el NO hasta el archipiélago de las Filipinas, y en un combate que tuvo con los naturales de la isla de Mactán, al E de la de Zebú, fué muerto el 27 de abril de 1521 y poco después de lo cual Juan Sebastián de Elcano continuó la derrota con solo la Victoria hasta el mismo puerto de Sanlúcar en el que entró el 6 de setiembre de 1522, á los tres años menos 14 días de su salida de él; regresando también en esa nave su piloto Francisco Alvo y Antonio Pigafeta, autores del derrotero y narrativa del viaje Dicha nave, que Argensola llama la venerable nao, tiene la gloria de ser la primera que dió vuelta al mundo por lo cual Carlos V y I de España concedió á de Elcano un escudo de armas, cuyo timbre era un globo terráqueo con el lema Primus omnium circumdedisti me": {
-         "type": null,
-         "definition": "1ª La de Magallanes, compuesta de las naos Trinidad, San Antonio, Concepción, Victoria y Santiago, que partió de Sanlúcar de Barrameda el 20 de setiembre de 1519 Después de detenciones en la costa del Brasil, en la boca del Río de la Plata, en el puerto de San Julián y de Santa Cruz de la costa del Atlántico descubrió el 21 de octubre de 1520 el cabo que nombró de las Vírgenes; reconoció esta entrada del estrecho, penetró en él con tres de esas naves el 6 de noviembre siguiente, y salió al Pacifico el 27 del mismo mes, habiéndose perdido antes la Santiago y desertado la de San Antonio De aquí dirigióse Magallanes hacia el NO hasta el archipiélago de las Filipinas, y en un combate que tuvo con los naturales de la isla de Mactán, al E de la de Zebú, fué muerto el 27 de abril de 1521 y poco después de lo cual Juan Sebastián de Elcano continuó la derrota con solo la Victoria hasta el mismo puerto de Sanlúcar en el que entró el 6 de setiembre de 1522, á los tres años menos 14 días de su salida de él; regresando también en esa nave su piloto Francisco Alvo y Antonio Pigafeta, autores del derrotero y narrativa del viaje Dicha nave, que Argensola llama la venerable nao, tiene la gloria de ser la primera que dió vuelta al mundo por lo cual Carlos V y I de España concedió á de Elcano un escudo de armas, cuyo timbre era un globo terráqueo con el lema Primus omnium circumdedisti me",
-         "page": "402"
-      },
-      "2ª La de Don Francisco García Jofré Loaisa, compuesta de las naves Santa María de la Victoria, Santa María del Parral, San Lesmes, patache Santiago, Sancti Spiritus, Anunciada y San Gabriel; entró el 2 de abril de 1526 y salió al Pacífico el 26 de mayo siguiente, con las cuatro primeras Venía de segundo de la expedición Juan Sebastián de Elcano": {
-         "type": null,
-         "definition": "2ª La de Don Francisco García Jofré Loaisa, compuesta de las naves Santa María de la Victoria, Santa María del Parral, San Lesmes, patache Santiago, Sancti Spiritus, Anunciada y San Gabriel; entró el 2 de abril de 1526 y salió al Pacífico el 26 de mayo siguiente, con las cuatro primeras Venía de segundo de la expedición Juan Sebastián de Elcano",
-         "page": "402"
-      },
-      "3ª La de Alonso de Alcazaba con las naves Madre de Dios y San Pedro Entró en enero de 1535 y regresó sin pasarlo Esta expedición y la anterior dieron nombre á puntos principales del estrecho 4ª La de Alonso de Camargo, compuesta de tres naves y equipada por el obispo de Plasencia Entró al estrecho el 20 de octubre de 1539 La capitana se perdió el 22 en la boca oeste de la Primera Angostura; otra contrariada por el mal tiempo regresó de allí á España y la tercera salió al Pacífico, y continuando hacia el N á vista de tierra tocó en la bahía que llamaron del Carnero y llegó al Callao donde dió la primera idea del movimiento ó dirección de la costa intermedia": {
-         "type": null,
-         "definition": "3ª La de Alonso de Alcazaba con las naves Madre de Dios y San Pedro Entró en enero de 1535 y regresó sin pasarlo Esta expedición y la anterior dieron nombre á puntos principales del estrecho 4ª La de Alonso de Camargo, compuesta de tres naves y equipada por el obispo de Plasencia Entró al estrecho el 20 de octubre de 1539 La capitana se perdió el 22 en la boca oeste de la Primera Angostura; otra contrariada por el mal tiempo regresó de allí á España y la tercera salió al Pacífico, y continuando hacia el N á vista de tierra tocó en la bahía que llamaron del Carnero y llegó al Callao donde dió la primera idea del movimiento ó dirección de la costa intermedia",
-         "page": "404"
-      },
-      "5ª La de Juan Fernández Ladrillero compuesta de los buques San Luis, en que él iba, el San Sebastián, mandado por Francisco Cortés Ojea, y un bergantín Salieron juntos de la bahía de Valdivia, por orden del Gobernador Hurtado de Mendoza, el 17 de noviembre de 1557 pero sólo el San Luis entró al estrecho por el Pacífico y permaneció en él desde marzo siguiente hasta fines de julio, en que llegó á la boca del Atlántico": {
-         "type": null,
-         "definition": "5ª La de Juan Fernández Ladrillero compuesta de los buques San Luis, en que él iba, el San Sebastián, mandado por Francisco Cortés Ojea, y un bergantín Salieron juntos de la bahía de Valdivia, por orden del Gobernador Hurtado de Mendoza, el 17 de noviembre de 1557 pero sólo el San Luis entró al estrecho por el Pacífico y permaneció en él desde marzo siguiente hasta fines de julio, en que llegó á la boca del Atlántico",
-         "page": "404"
-      },
-      "6ª La inglesa de Francisco Drake con las naves Pelícano, Golden Hind (Corza Dorada), Isabel, Marigold (Caléndula), Swan (Cisne) y Cristóbal Drake entró al estrecho con las tres primeras el 20 de agosto de 1578 y salió al Pacifico en 17 días; López Vaz dice que en 12": {
-         "type": null,
-         "definition": "6ª La inglesa de Francisco Drake con las naves Pelícano, Golden Hind (Corza Dorada), Isabel, Marigold (Caléndula), Swan (Cisne) y Cristóbal Drake entró al estrecho con las tres primeras el 20 de agosto de 1578 y salió al Pacifico en 17 días; López Vaz dice que en 12",
-         "page": "404"
-      },
-      "7ª La de Pedro Sarmiento de Gamboa, de las dos naves capitana Nuestra Señora de Esperanza y almiranta San Francisco Salió del Callao el 9 de octubre de 1579, recorrió los canales de la Madre de Dios, entró en el estrecho el 23 de enero de 1580 y salió al Atlántico el 25 de febrero Reconoció y dió nombre á muchos puntos en él, mencionados en su Viaje que se publicó en Madrid, 1768": {
-         "type": null,
-         "definition": "7ª La de Pedro Sarmiento de Gamboa, de las dos naves capitana Nuestra Señora de Esperanza y almiranta San Francisco Salió del Callao el 9 de octubre de 1579, recorrió los canales de la Madre de Dios, entró en el estrecho el 23 de enero de 1580 y salió al Atlántico el 25 de febrero Reconoció y dió nombre á muchos puntos en él, mencionados en su Viaje que se publicó en Madrid, 1768",
-         "page": "404"
-      },
-      "8ª La segunda del mismo célebre navegante, que vino á fundar las colonias de Nombre de Jesús y San Felipe (puerto del Hambre) Entró por el Atlántico en diciembre de 1583 y sólo llegó hasta la punta de Santa Ana, donde estableció la última Fué una expedición de contratiempos": {
-         "type": null,
-         "definition": "8ª La segunda del mismo célebre navegante, que vino á fundar las colonias de Nombre de Jesús y San Felipe (puerto del Hambre) Entró por el Atlántico en diciembre de 1583 y sólo llegó hasta la punta de Santa Ana, donde estableció la última Fué una expedición de contratiempos",
-         "page": "404"
-      },
-      "9ª La inglesa de Tomás Cavendish, de las naves Desire, Contento y Hngo Galant Entró el 6 de enero de 1587 y salió al Pacífico el 24 de febrero siguiente": {
-         "type": null,
-         "definition": "9ª La inglesa de Tomás Cavendish, de las naves Desire, Contento y Hngo Galant Entró el 6 de enero de 1587 y salió al Pacífico el 24 de febrero siguiente",
-         "page": "404"
-      },
-      "10 La inglesa de Ricardo Hawkins, compuesta de las naves Dainty (Regalo), Fancy (Fantasía) y Hawk (Halcón); entró el 19 de febrero y saló al Pacífico el 29 de marzo de 1594 tocando en la Mocha, Valparaíso y Coquimbo, los cuales saqueó": {
-         "type": null,
-         "definition": "10 La inglesa de Ricardo Hawkins, compuesta de las naves Dainty (Regalo), Fancy (Fantasía) y Hawk (Halcón); entró el 19 de febrero y saló al Pacífico el 29 de marzo de 1594 tocando en la Mocha, Valparaíso y Coquimbo, los cuales saqueó",
-         "page": "404"
-      },
-      "11ª La holandesa de Jacobo Mahu ó de Simón de Cordes, compuesta de las naves Esperanza, Caridad, Fe, Fidelidad y Buenas Nuevas Internó en el estrecho el 6 de abril de 1599 y salió al Pacífico el 3 de setiembre siguiente; tocó en la isla de Santa María y Lavapié": {
-         "type": null,
-         "definition": "11ª La holandesa de Jacobo Mahu ó de Simón de Cordes, compuesta de las naves Esperanza, Caridad, Fe, Fidelidad y Buenas Nuevas Internó en el estrecho el 6 de abril de 1599 y salió al Pacífico el 3 de setiembre siguiente; tocó en la isla de Santa María y Lavapié",
-         "page": "404"
-      },
-      "12ª La ídem de Oliverio van Noort con las naves Mauricio, Enrique Federico, Unidad y Esperanza Entró el 22 de noviembre de 1599 y salió el 29 de febrero de 1600; hostilizó la isla de la Mocha, á Valparaíso y á Guasco 13ª La idem de Joris ó Jorge Spilberg compuesta de las naves Zon (Sol), Halve Maen (Media Luna), Eolo, Morghensterne (Estrella de la Mañana), Jagher (Cazador) y Zeemeew (Gaviota) Entró en el estrecho el 3 de abril y salió al Pacífico el 6 de mayo de 1615; pasando después por la Mocha, Santa María, Penco, Valparaíso y Quintero": {
-         "type": null,
-         "definition": "12ª La ídem de Oliverio van Noort con las naves Mauricio, Enrique Federico, Unidad y Esperanza Entró el 22 de noviembre de 1599 y salió el 29 de febrero de 1600; hostilizó la isla de la Mocha, á Valparaíso y á Guasco 13ª La idem de Joris ó Jorge Spilberg compuesta de las naves Zon (Sol), Halve Maen (Media Luna), Eolo, Morghensterne (Estrella de la Mañana), Jagher (Cazador) y Zeemeew (Gaviota) Entró en el estrecho el 3 de abril y salió al Pacífico el 6 de mayo de 1615; pasando después por la Mocha, Santa María, Penco, Valparaíso y Quintero",
-         "page": "405"
-      },
-      "14ª La española de los hermanos Bartolomé García de Nodal y Gonzalo de Nodal, compuesta de las carabelas Nuestra Señora del Buen Suceso y Nuestra Señora de Atocha, Llegó al cabo de las Vírgenes el 15 de enero de 1619; de aquí siguió al S por el estrecho de Le Maire y doblando el cabo de Hornos continuó hasta la boca occidental del estrecho por donde entró en éste el 25 de febrero y salió al Atlántico el 13 de marzo del mismo año 1619 Acompañaba la expedición el cosmógrafo y piloto Diego Ramírez de Arellano": {
-         "type": null,
-         "definition": "14ª La española de los hermanos Bartolomé García de Nodal y Gonzalo de Nodal, compuesta de las carabelas Nuestra Señora del Buen Suceso y Nuestra Señora de Atocha, Llegó al cabo de las Vírgenes el 15 de enero de 1619; de aquí siguió al S por el estrecho de Le Maire y doblando el cabo de Hornos continuó hasta la boca occidental del estrecho por donde entró en éste el 25 de febrero y salió al Atlántico el 13 de marzo del mismo año 1619 Acompañaba la expedición el cosmógrafo y piloto Diego Ramírez de Arellano",
-         "page": "405"
-      },
-      "15ª La inglesa de Juan Narborough, de los buques Sweepstakes (Ganador) y Batchelor (Bachiller) Entró el 22 de octubre y salió al Pacífico el 19 de noviembre de 1670 Este navegante alteró muchos de los nombres anteriores en el estrecho y en la costa occidental, y tomó posesión por Carlos II de Inglaterra de algunos de sus puntos Venía con él de oficial Juan Wood": {
-         "type": null,
-         "definition": "15ª La inglesa de Juan Narborough, de los buques Sweepstakes (Ganador) y Batchelor (Bachiller) Entró el 22 de octubre y salió al Pacífico el 19 de noviembre de 1670 Este navegante alteró muchos de los nombres anteriores en el estrecho y en la costa occidental, y tomó posesión por Carlos II de Inglaterra de algunos de sus puntos Venía con él de oficial Juan Wood",
-         "page": "405"
-      },
-      "16ª La inglesa de la nave Welfare (Felicidad), al mando del capitán Juan Strong Entró el 12 de febrero de 1690 y salió al Pacífico el 23 de mayo siguiente Tocó el 10 de junio en la isla de Mocha, que halló desierta, pero con animales domésticos y el 24 pasó á la bahía de Valdivia, desde donde se le hizo fuego, lo mismo que en Coquimbo": {
-         "type": null,
-         "definition": "16ª La inglesa de la nave Welfare (Felicidad), al mando del capitán Juan Strong Entró el 12 de febrero de 1690 y salió al Pacífico el 23 de mayo siguiente Tocó el 10 de junio en la isla de Mocha, que halló desierta, pero con animales domésticos y el 24 pasó á la bahía de Valdivia, desde donde se le hizo fuego, lo mismo que en Coquimbo",
-         "page": "405"
-      },
-      "17ª La francesa de Gennes, compuesta de las naves Le Faucon Anglais, Le Soleil d'Afrique, Le Séditieux, La Félicité, La Gloutonne y La Féconde Entró el 11 de febrero de 1696 y no pasó del cabo de Froward, de donde regresó el 5 de abril del mismo año": {
-         "type": null,
-         "definition": "17ª La francesa de Gennes, compuesta de las naves Le Faucon Anglais, Le Soleil d'Afrique, Le Séditieux, La Félicité, La Gloutonne y La Féconde Entró el 11 de febrero de 1696 y no pasó del cabo de Froward, de donde regresó el 5 de abril del mismo año",
-         "page": "405"
-      },
-      "18ª La ídem de Beauchesne Gouin, de los buques Phelippeaux y Maurepas; entró el 24 de junio de 1699 y salió al Pacífico el 21 de enero de 1700, después de cerca de siete meses de fatigosa navegación en el estrecho": {
-         "type": null,
-         "definition": "18ª La ídem de Beauchesne Gouin, de los buques Phelippeaux y Maurepas; entró el 24 de junio de 1699 y salió al Pacífico el 21 de enero de 1700, después de cerca de siete meses de fatigosa navegación en el estrecho",
-         "page": "405"
-      },
-      "19ª La inglesa del comodoro Juan Byron, naves Delfin y Tamar Entró en el estrecho el 22 de diciembre de 1764, pero no llegó más que hasta el puerto del Hambre de donde volvió á salir al Atlántico el 4 del siguiente mes Efectuó segunda entrada el 17 de febrero y entonces salió al Pacífico el 9 de abril de 1765 Byron había acompañado la expedición de Anson, como guardia marina; naufragó en 1741 en la isla de Guayaneco y de allí logró llegar con el capitán del buque náufrago y otros dos individuos á Castro de Chiloé, desde donde se les envió á Santiago En esta ciudad fueron retenidos como prisioneros ingleses hasta principios de diciembre de 1744": {
-         "type": null,
-         "definition": "19ª La inglesa del comodoro Juan Byron, naves Delfin y Tamar Entró en el estrecho el 22 de diciembre de 1764, pero no llegó más que hasta el puerto del Hambre de donde volvió á salir al Atlántico el 4 del siguiente mes Efectuó segunda entrada el 17 de febrero y entonces salió al Pacífico el 9 de abril de 1765 Byron había acompañado la expedición de Anson, como guardia marina; naufragó en 1741 en la isla de Guayaneco y de allí logró llegar con el capitán del buque náufrago y otros dos individuos á Castro de Chiloé, desde donde se les envió á Santiago En esta ciudad fueron retenidos como prisioneros ingleses hasta principios de diciembre de 1744",
-         "page": "405"
-      },
-      "20ª La francesa de Luis Antonio de Bougainville, buques la Boudeuse y l'Étoile Entró el 7 de diciembre da 1767 y salió al Pacífico el 27 de enero siguiente Su comandante y Ducloz Guyot habían conducido antes desde San Maló una expedición de los dos buques Aguila y Esfinge á poblar las Malvinas y de aquí habían penetrado en el estrecho en 1765, donde encontraron á la de Byron": {
-         "type": null,
-         "definition": "20ª La francesa de Luis Antonio de Bougainville, buques la Boudeuse y l'Étoile Entró el 7 de diciembre da 1767 y salió al Pacífico el 27 de enero siguiente Su comandante y Ducloz Guyot habían conducido antes desde San Maló una expedición de los dos buques Aguila y Esfinge á poblar las Malvinas y de aquí habían penetrado en el estrecho en 1765, donde encontraron á la de Byron",
-         "page": "406"
-      },
-      "21ª La inglesa de Samuel Wallis, compuesta de las naves Delfín, mandada por este capitán, Swallow (Golondrina), por el capitán Felipe Carteret, y Príncipe Federico, por el teniente Jaime Brine Los buques entraron juntos en el estrecho el 17 de diciembre de 1766 y salieron al Pacífico el 11 y 15 de abril de 1767 El Delfín, antes de la expedición de Byron, fué la primera nave que hizo dos circunnavegaciones sucesivas del globo": {
-         "type": null,
-         "definition": "21ª La inglesa de Samuel Wallis, compuesta de las naves Delfín, mandada por este capitán, Swallow (Golondrina), por el capitán Felipe Carteret, y Príncipe Federico, por el teniente Jaime Brine Los buques entraron juntos en el estrecho el 17 de diciembre de 1766 y salieron al Pacífico el 11 y 15 de abril de 1767 El Delfín, antes de la expedición de Byron, fué la primera nave que hizo dos circunnavegaciones sucesivas del globo",
-         "page": "406"
-      },
-      "22ª La española de Antonio de Córdoba, fragata Santa María de la Cabeza, entró por el Atlántico el 2 de enero de 1786, exploró diligentemente el estrecho en su primera mitad y desde allí volvió á salir de regreso á España el 18 de marzo del mismo año El dicho capitán Córdoba repitió la expedición para completar el reconocimiento del estrecho con los adecuados paquebotes de 16 cañones Santa Casilda y Santa Eulalia, que lo embocaron el 19 de diciembre de 1788, y volvieron á salir al Atlántico en los primeros días de febrero de 1789 La relación del primer viaje se publicó en 1788 y la del segundo en 1793": {
-         "type": null,
-         "definition": "22ª La española de Antonio de Córdoba, fragata Santa María de la Cabeza, entró por el Atlántico el 2 de enero de 1786, exploró diligentemente el estrecho en su primera mitad y desde allí volvió á salir de regreso á España el 18 de marzo del mismo año El dicho capitán Córdoba repitió la expedición para completar el reconocimiento del estrecho con los adecuados paquebotes de 16 cañones Santa Casilda y Santa Eulalia, que lo embocaron el 19 de diciembre de 1788, y volvieron á salir al Atlántico en los primeros días de febrero de 1789 La relación del primer viaje se publicó en 1788 y la del segundo en 1793",
-         "page": "406"
-      },
-      "23ª. La de la primera exploración inglesa por los capitanes Felipe Parker King y Roberto FitzRoy, 1828": {
-         "type": null,
-         "definition": "1836 en dicha Beagle. Recorrieron detenidamente el estrecho, canales contiguos y costas inmediatas. En la última iba como naturalista el célebre Carlos R. Darwin.",
-         "page": "406"
-      },
-      "24ª. La idem del capitán Ricardo C. Mayne, vapor Nassau, 1866": {
-         "type": null,
-         "definition": "1869. Reconoció todo el estrecho y canales navegables al N. hasta el golfo de Penas. Se publicó en Londres en 1871 un exacto derrotero, que tradujo y dió á luz en Valparaíso en 1874 el capitán, después vice almirante de Chile, Don Patricio Lynch.",
-         "page": "406"
-      },
-      "Las cartas más notables del Magallanes, bajo el punto histórico-geográfico, son:": {
-         "type": null,
-         "definition": "Las cartas más notables del Magallanes, bajo el punto histórico-geográfico, son:",
-         "page": "406"
-      },
-      "1° La de Juan Cornelitz-May, publicada en 1619 en la relación del viaje del almirante holandés Spilberg Sarmiento formó una carta, que aparece perdida, pero que talvez la tuvo á la vista Cano y Olmedilla": {
-         "type": null,
-         "definition": "1° La de Juan Cornelitz-May, publicada en 1619 en la relación del viaje del almirante holandés Spilberg Sarmiento formó una carta, que aparece perdida, pero que talvez la tuvo á la vista Cano y Olmedilla",
-         "page": "406"
-      },
-      "2° La del navegante Narborough, trazada en 1670 y publicada con su viaje en 1694": {
-         "type": null,
-         "definition": "2° La del navegante Narborough, trazada en 1670 y publicada con su viaje en 1694",
-         "page": "406"
-      },
-      "3° La de Francisco Froger, publicada con la relación del viaje de Gennes en 1698": {
-         "type": null,
-         "definition": "3° La de Francisco Froger, publicada con la relación del viaje de Gennes en 1698",
-         "page": "406"
-      },
-      "4° La de Juan de la Cruz Cano y Olmedilla en 1769": {
-         "type": null,
-         "definition": "4° La de Juan de la Cruz Cano y Olmedilla en 1769",
-         "page": "406"
-      },
-      "5° La del viaje de Bougainville, publicada en 1771": {
-         "type": null,
-         "definition": "5° La del viaje de Bougainville, publicada en 1771",
-         "page": "406"
-      },
-      "6º La pubhcada por Hawkesworth en 1773 con la relación de los viajes de Byron, Carteret, Wallis y del primero de Cook 7° Las de Córdoba publicadas en el viaje, 1788, y en el apéndice, 1789": {
-         "type": null,
-         "definition": "6º La pubhcada por Hawkesworth en 1773 con la relación de los viajes de Byron, Carteret, Wallis y del primero de Cook 7° Las de Córdoba publicadas en el viaje, 1788, y en el apéndice, 1789",
-         "page": "407"
-      },
-      "8ª La esférica de Felipe Bauza, 1798": {
-         "type": null,
-         "definition": "8ª La esférica de Felipe Bauza, 1798",
-         "page": "407"
-      },
-      "9° La de los capitanes King y Fitz-Roy, publicada por el almirantazgo inglés en 1832 y después con correcciones del capitán Mayne en 1869 Esta carta de 0,60 m entre los paralelos 52° 10' y 55° 10', y 0,93 m entre los meridianos 67° 45' y 75° 20', es al presente la más completa y usual": {
-         "type": null,
-         "definition": "9° La de los capitanes King y Fitz-Roy, publicada por el almirantazgo inglés en 1832 y después con correcciones del capitán Mayne en 1869 Esta carta de 0,60 m entre los paralelos 52° 10' y 55° 10', y 0,93 m entre los meridianos 67° 45' y 75° 20', es al presente la más completa y usual",
-         "page": "407"
+         "definition": ["Célebre canal que separa la extremidad continental de la América del archipiélago de la Tierra del Fuego, comunicando los océanos Pacífico y Atlántico, bajo los paralelos 52° 12' y 52° 22' Lat. respectivamente. En su corrida del uno al otro mar forma una especie de ángulo obtuso, cuyo vértice vuelto al S., se halla en el cabo de Froward ó de Santa Águeda. Se dirige, pues, desde el desembocadero del Pacífico casi directamente al SE. hasta dicho cabo por un espacio de 274 kilómetros con trechos ó pasos angostos y tortuosos; desde el mismo cabo, ó más bien desde el inmediato de San Isidro hasta la Segunda Angostura, corre al N. una extensión de 152 kilómetros; y desde aquí continúa hacia el NE. y al E. por otros 166 hasta su salida al Atlántico. Por consiguiente, su longitud de extremo á extremo, ó sea entre los cabos de Pilares y de las Virgenes, es de 592 kilómetros. Esta ha sido estimada en 1580 por el capitán Pedro Sarmiento de Gamboa en 110 leguas marinas; por el inglés Narborough, 1670, en 116; y en 107 por Don Antonio de Córdoba, comandante de la fragata «Santa María de la Cabeza», en 1786. El comandante Enrique Trollope, del buque inglés «Rattlesnake», que lo pasó en ocho dias á mediados de mayo de 1853, le asigna 312 millas marinas, y el capitán Ricardo C. Mayne, comandante del «Nassau», que lo exploró en 1867, le da una extensión de 320 millas, que apenas difiere de la de Córdoba. Esta distancia es la navegable; mas, la en línea recta, desde el cabo de Pilares al de las Virgenes, no excede de 240 millas marinas ó 445 kilómetros. Su anchura, por término medio, es de cinco á seis kilómetros en más de la mitad de su longitud; pero en partes se abre en mayor extensión, como sucede á sus entradas del Pacífico y Atlántico, y frente á las bahías Inútil, de Gente Grande, de Santiago y de la Posesión, y á las bocas de los canales de Smyth, de Santa Bárbara y de la Magdalena; y en otras se reduce á un angosto trecho, como en los trayectos de Paso Largo, Brazo Tortuoso y Segunda y Primera Angostura. De su costa norte ó continental salen los canales de Smyth y de San Jerónimo, y de la austral, los de Córdoba, Santa Bárbara y de la Magdalena, abriéndose en las mismas costas varios y diversos puertos, radas y caletas y echándose en ella algunas corrientes cortas de agua, como el río de San Juan, &c. Dentro de su cauce contiene las islas de Carlos III., de Isabel, Magdalena, Marta y algunas pequeñas. Es un interesante brazo de mar que en todo su largor ostenta múltiple variedad de bellezas naturales y pintorescas vistas, aunque en su aspecto y carácter esenciales forman dos secciones distintas. La occidental, desde el Pacífico hasta Cabo Negro, más arriba del puerto de Punta Arenas, es de riberas montuosas y cubiertas de arbolado, de márgenes altas, acantiladas y abiertas en sucesivas pequeñas abras y caletas y de frecuentes vientos occidentales que le traen tiempo oscuro y lluvioso. La sección oriental es de condiciones diferentes á la anterior. Desde el Cabo Negro hasta el Atlántico, las riberas del estrecho pierden el carácter montañoso; desaparecen los árboles y arbustos, son más bajas y se convierten, en general, en lomas y en llanuras herbosas que van á confundirse hacia el N. con las monótonas pampas patagónicas, de cuyo carácter en algo participa el lado opuesto de la isla grande de la Tierra del Fuego; sus costas son más playadas, el canal más aplacerado y con algunos bancos y bajos, siendo en esta sección el cielo más despejado y más escasas las lluvias. La navegación del estrecho, aunque no peligrosa, es para buques de vela difícil y tardía por los vientos contrarios; pero bajo todos respecto, dice el capitán Mayne, es segura para vapores. Este estrecho fué descubierto por Fernando de Magallanes en 1520 y de él toma la denominación; y así dice Ercilla, en su Araucana:",
+               "Y aunque este navegante lo denominó estrecho de Todos los Santos y Sarmiento, de la Madre de Dios, el uso, sin embargo, le ha consagrado aquella denominación por el apellido de su descubridor. Las expediciones más notables que lo han atravesado de cabo á cabo, son:",
+               "1ª La de Magallanes, compuesta de las naos Trinidad, San Antonio, Concepción, Victoria y Santiago, que partió de Sanlúcar de Barrameda el 20 de setiembre de 1519 Después de detenciones en la costa del Brasil, en la boca del Río de la Plata, en el puerto de San Julián y de Santa Cruz de la costa del Atlántico descubrió el 21 de octubre de 1520 el cabo que nombró de las Vírgenes; reconoció esta entrada del estrecho, penetró en él con tres de esas naves el 6 de noviembre siguiente, y salió al Pacifico el 27 del mismo mes, habiéndose perdido antes la Santiago y desertado la de San Antonio De aquí dirigióse Magallanes hacia el NO hasta el archipiélago de las Filipinas, y en un combate que tuvo con los naturales de la isla de Mactán, al E de la de Zebú, fué muerto el 27 de abril de 1521 y poco después de lo cual Juan Sebastián de Elcano continuó la derrota con solo la Victoria hasta el mismo puerto de Sanlúcar en el que entró el 6 de setiembre de 1522, á los tres años menos 14 días de su salida de él; regresando también en esa nave su piloto Francisco Alvo y Antonio Pigafeta, autores del derrotero y narrativa del viaje Dicha nave, que Argensola llama la venerable nao, tiene la gloria de ser la primera que dió vuelta al mundo por lo cual Carlos V y I de España concedió á de Elcano un escudo de armas, cuyo timbre era un globo terráqueo con el lema Primus omnium circumdedisti me",
+               "2ª La de Don Francisco García Jofré Loaisa, compuesta de las naves Santa María de la Victoria, Santa María del Parral, San Lesmes, patache Santiago, Sancti Spiritus, Anunciada y San Gabriel; entró el 2 de abril de 1526 y salió al Pacífico el 26 de mayo siguiente, con las cuatro primeras Venía de segundo de la expedición Juan Sebastián de Elcano",
+               "3ª La de Alonso de Alcazaba con las naves Madre de Dios y San Pedro Entró en enero de 1535 y regresó sin pasarlo Esta expedición y la anterior dieron nombre á puntos principales del estrecho 4ª La de Alonso de Camargo, compuesta de tres naves y equipada por el obispo de Plasencia Entró al estrecho el 20 de octubre de 1539 La capitana se perdió el 22 en la boca oeste de la Primera Angostura; otra contrariada por el mal tiempo regresó de allí á España y la tercera salió al Pacífico, y continuando hacia el N á vista de tierra tocó en la bahía que llamaron del Carnero y llegó al Callao donde dió la primera idea del movimiento ó dirección de la costa intermedia",
+               "5ª La de Juan Fernández Ladrillero compuesta de los buques San Luis, en que él iba, el San Sebastián, mandado por Francisco Cortés Ojea, y un bergantín Salieron juntos de la bahía de Valdivia, por orden del Gobernador Hurtado de Mendoza, el 17 de noviembre de 1557 pero sólo el San Luis entró al estrecho por el Pacífico y permaneció en él desde marzo siguiente hasta fines de julio, en que llegó á la boca del Atlántico",
+               "6ª La inglesa de Francisco Drake con las naves Pelícano, Golden Hind (Corza Dorada), Isabel, Marigold (Caléndula), Swan (Cisne) y Cristóbal Drake entró al estrecho con las tres primeras el 20 de agosto de 1578 y salió al Pacifico en 17 días; López Vaz dice que en 12",
+               "7ª La de Pedro Sarmiento de Gamboa, de las dos naves capitana Nuestra Señora de Esperanza y almiranta San Francisco Salió del Callao el 9 de octubre de 1579, recorrió los canales de la Madre de Dios, entró en el estrecho el 23 de enero de 1580 y salió al Atlántico el 25 de febrero Reconoció y dió nombre á muchos puntos en él, mencionados en su Viaje que se publicó en Madrid, 1768",
+               "8ª La segunda del mismo célebre navegante, que vino á fundar las colonias de Nombre de Jesús y San Felipe (puerto del Hambre) Entró por el Atlántico en diciembre de 1583 y sólo llegó hasta la punta de Santa Ana, donde estableció la última Fué una expedición de contratiempos",
+               "9ª La inglesa de Tomás Cavendish, de las naves Desire, Contento y Hngo Galant Entró el 6 de enero de 1587 y salió al Pacífico el 24 de febrero siguiente",
+               "10 La inglesa de Ricardo Hawkins, compuesta de las naves Dainty (Regalo), Fancy (Fantasía) y Hawk (Halcón); entró el 19 de febrero y saló al Pacífico el 29 de marzo de 1594 tocando en la Mocha, Valparaíso y Coquimbo, los cuales saqueó",
+               "11ª La holandesa de Jacobo Mahu ó de Simón de Cordes, compuesta de las naves Esperanza, Caridad, Fe, Fidelidad y Buenas Nuevas Internó en el estrecho el 6 de abril de 1599 y salió al Pacífico el 3 de setiembre siguiente; tocó en la isla de Santa María y Lavapié",
+               "12ª La ídem de Oliverio van Noort con las naves Mauricio, Enrique Federico, Unidad y Esperanza Entró el 22 de noviembre de 1599 y salió el 29 de febrero de 1600; hostilizó la isla de la Mocha, á Valparaíso y á Guasco 13ª La idem de Joris ó Jorge Spilberg compuesta de las naves Zon (Sol), Halve Maen (Media Luna), Eolo, Morghensterne (Estrella de la Mañana), Jagher (Cazador) y Zeemeew (Gaviota) Entró en el estrecho el 3 de abril y salió al Pacífico el 6 de mayo de 1615; pasando después por la Mocha, Santa María, Penco, Valparaíso y Quintero",
+               "14ª La española de los hermanos Bartolomé García de Nodal y Gonzalo de Nodal, compuesta de las carabelas Nuestra Señora del Buen Suceso y Nuestra Señora de Atocha, Llegó al cabo de las Vírgenes el 15 de enero de 1619; de aquí siguió al S por el estrecho de Le Maire y doblando el cabo de Hornos continuó hasta la boca occidental del estrecho por donde entró en éste el 25 de febrero y salió al Atlántico el 13 de marzo del mismo año 1619 Acompañaba la expedición el cosmógrafo y piloto Diego Ramírez de Arellano",
+               "15ª La inglesa de Juan Narborough, de los buques Sweepstakes (Ganador) y Batchelor (Bachiller) Entró el 22 de octubre y salió al Pacífico el 19 de noviembre de 1670 Este navegante alteró muchos de los nombres anteriores en el estrecho y en la costa occidental, y tomó posesión por Carlos II de Inglaterra de algunos de sus puntos Venía con él de oficial Juan Wood",
+               "16ª La inglesa de la nave Welfare (Felicidad), al mando del capitán Juan Strong Entró el 12 de febrero de 1690 y salió al Pacífico el 23 de mayo siguiente Tocó el 10 de junio en la isla de Mocha, que halló desierta, pero con animales domésticos y el 24 pasó á la bahía de Valdivia, desde donde se le hizo fuego, lo mismo que en Coquimbo",
+               "17ª La francesa de Gennes, compuesta de las naves Le Faucon Anglais, Le Soleil d'Afrique, Le Séditieux, La Félicité, La Gloutonne y La Féconde Entró el 11 de febrero de 1696 y no pasó del cabo de Froward, de donde regresó el 5 de abril del mismo año",
+               "18ª La ídem de Beauchesne Gouin, de los buques Phelippeaux y Maurepas; entró el 24 de junio de 1699 y salió al Pacífico el 21 de enero de 1700, después de cerca de siete meses de fatigosa navegación en el estrecho",
+               "19ª La inglesa del comodoro Juan Byron, naves Delfin y Tamar Entró en el estrecho el 22 de diciembre de 1764, pero no llegó más que hasta el puerto del Hambre de donde volvió á salir al Atlántico el 4 del siguiente mes Efectuó segunda entrada el 17 de febrero y entonces salió al Pacífico el 9 de abril de 1765 Byron había acompañado la expedición de Anson, como guardia marina; naufragó en 1741 en la isla de Guayaneco y de allí logró llegar con el capitán del buque náufrago y otros dos individuos á Castro de Chiloé, desde donde se les envió á Santiago En esta ciudad fueron retenidos como prisioneros ingleses hasta principios de diciembre de 1744",
+               "20ª La francesa de Luis Antonio de Bougainville, buques la Boudeuse y l'Étoile Entró el 7 de diciembre da 1767 y salió al Pacífico el 27 de enero siguiente Su comandante y Ducloz Guyot habían conducido antes desde San Maló una expedición de los dos buques Aguila y Esfinge á poblar las Malvinas y de aquí habían penetrado en el estrecho en 1765, donde encontraron á la de Byron",
+               "21ª La inglesa de Samuel Wallis, compuesta de las naves Delfín, mandada por este capitán, Swallow (Golondrina), por el capitán Felipe Carteret, y Príncipe Federico, por el teniente Jaime Brine Los buques entraron juntos en el estrecho el 17 de diciembre de 1766 y salieron al Pacífico el 11 y 15 de abril de 1767 El Delfín, antes de la expedición de Byron, fué la primera nave que hizo dos circunnavegaciones sucesivas del globo",
+               "22ª La española de Antonio de Córdoba, fragata Santa María de la Cabeza, entró por el Atlántico el 2 de enero de 1786, exploró diligentemente el estrecho en su primera mitad y desde allí volvió á salir de regreso á España el 18 de marzo del mismo año El dicho capitán Córdoba repitió la expedición para completar el reconocimiento del estrecho con los adecuados paquebotes de 16 cañones Santa Casilda y Santa Eulalia, que lo embocaron el 19 de diciembre de 1788, y volvieron á salir al Atlántico en los primeros días de febrero de 1789 La relación del primer viaje se publicó en 1788 y la del segundo en 1793",
+               "23ª. La de la primera exploración inglesa por los capitanes Felipe Parker King y Roberto FitzRoy, 1828-1836 en dicha Beagle. Recorrieron detenidamente el estrecho, canales contiguos y costas inmediatas. En la última iba como naturalista el célebre Carlos R. Darwin.",
+               "24ª. La idem del capitán Ricardo C. Mayne, vapor Nassau, 1866-1869. Reconoció todo el estrecho y canales navegables al N. hasta el golfo de Penas. Se publicó en Londres en 1871 un exacto derrotero, que tradujo y dió á luz en Valparaíso en 1874 el capitán, después vice almirante de Chile, Don Patricio Lynch.",
+               "Las cartas más notables del Magallanes, bajo el punto histórico-geográfico, son:",
+               "1° La de Juan Cornelitz-May, publicada en 1619 en la relación del viaje del almirante holandés Spilberg Sarmiento formó una carta, que aparece perdida, pero que talvez la tuvo á la vista Cano y Olmedilla",
+               "2° La del navegante Narborough, trazada en 1670 y publicada con su viaje en 1694",
+               "3° La de Francisco Froger, publicada con la relación del viaje de Gennes en 1698",
+               "4° La de Juan de la Cruz Cano y Olmedilla en 1769",
+               "5° La del viaje de Bougainville, publicada en 1771",
+               "6º La pubhcada por Hawkesworth en 1773 con la relación de los viajes de Byron, Carteret, Wallis y del primero de Cook 7° Las de Córdoba publicadas en el viaje, 1788, y en el apéndice, 1789",
+               "8ª La esférica de Felipe Bauza, 1798",
+               "9° La de los capitanes King y Fitz-Roy, publicada por el almirantazgo inglés en 1832 y después con correcciones del capitán Mayne en 1869 Esta carta de 0,60 m entre los paralelos 52° 10' y 55° 10', y 0,93 m entre los meridianos 67° 45' y 75° 20', es al presente la más completa y usual"
+         ],
+         "page": "[402, 404, 405, 406, 407]"
       },
       "Magallanes (Territorio)": {
          "type": "Territorio",
@@ -15872,11 +15705,6 @@
          "type": "Bahía",
          "definition": "1869, en el vapor británico «Nassau», hizo también el reconocimiento de esta bahía y de sus parajes vecinos, á los que designó con el apellido de varios de sus oficiales.",
          "page": "480"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "480"
       }
    },
    "Ñ": {
@@ -16310,23 +16138,13 @@
       },
       "Osorno": {
          "type": null,
-         "definition": "Ciudad, capital del departamento de su nombre. Está situada por 40º 35' Lat. y 73º 10' Lon. y ocupa una llanura á 25 metros sobre el nivel del Pacífico á la orilla norte ó derecha del río Rahue, y á la del sur del de las Damas, que confluye inmediatamente en su lado occidental. Su plano es de una forma regular, y lo cortan calles rectas y de buen ancho de las cuales seis corren de E. a O. y doce de N. á S., dejando manzanas de 116 metros por costado. En el centro queda su plaza principal en cuyo lado oriental se halla la iglesia parroquial sobre el mismo sitio de la primitiva, que se destinó á servir de catedral al tiempo de la primera fundación de esta ciudad. Se ha edificado bajo el mismo plan de la antigua, con dos torres y tres naves divididas por gruesas columnas cuadradas todas, igualmente que las murallas, de una piedra arenisca compacta llamada cancagua, empleándose en su mayor parte los propios materiales que sirvieron para aquella iglesia, y de la cual se preserva la primera pila bautismal, hecha también de un trozo de dicha piedra. En el costado del poniente de la plaza existían en 1859 restos de la casa de gobierno y cárcel, en cuyo frontispicio se leía el siguiente memorandum de su repoblación:",
-         "page": "493"
-      },
-      "D. O. M. LA ANTIGUA CIUDAD DE OSORNO  RESTAURADA POR EL TENIENTE GENERAL DON AMBROSIO O'HIGGINS DE VALLENAR PRESIDENTE, GOBEBNADOR YCAPITAN GENERAL, Y REPOBLADA DE ORDEN DE S. M. EL SEÑOR DON CARLOS IV AÑO DE 1794. [2]": {
-         "type": null,
-         "definition": "D. O. M. LA ANTIGUA CIUDAD DE OSORNO  RESTAURADA POR EL TENIENTE GENERAL DON AMBROSIO O'HIGGINS DE VALLENAR PRESIDENTE, GOBEBNADOR YCAPITAN GENERAL, Y REPOBLADA DE ORDEN DE S. M. EL SEÑOR DON CARLOS IV AÑO DE 1794. [2]",
-         "page": "493"
-      },
-      "Contiene una población de 3,097 habitantes, sencillos edificios públicos, escuelas gratuitas para uno y otro sexo, oficinas de registro civil, de correo y telégrafo, cementerios católico y protestante con sus respectivas capillas, fábricas de cerveza y de otras producciones industriales, y á tres manzanas al oriente de su iglesia parroquial posee un hermoso convento de misioneros franciscanos, construido conforme al decreto de 2 de noviembre de 1844, dos años más tarde, y también una iglesia protestante inaugurada el 25 de diciembre de 1868 Su clima es muy sano y templado, aunque regularmente lluvioso En sus términos se produce buen trigo, cebada, legumbres, manzanas de que se hace excelente cidra, lino, &c; y abundan en hermoso ganado vacuno, maderas, &c Puede comunicarse con el Río Bueno navegando el Rahue Dista sobre 115 kilómetros al N de Puerto-Montt, teniendo de por medio á Cancura, Octay y el lago de Llanquihue, y 45 al S de la villa de la Unión Esta ciudad fué mandada establecer la primera vez por Don Pedro de Valdivia con la denominación de Santa Marina de Gaete, en honor de su esposa; y al efecto pasó á fundarla en 1553 Don Francisco de Villagrán alcanzando á echar sólo sus cimientos en su actual sitio, llamado por los naturales Chauracahuín, cuando tuvo que abandonarla á consecuencia de la muerte de aquel Don García Hurtado de Mendoza renovó el proyecto, y la fundó efectivamente por medio del capitán Alonso de Ortiz en 27 de marzo de 1558, pero con el título de ciudad de San Mateo de Osorno, en obsequio á su abuelo, el antiguo conde de Osorno, de un lugar de este nombre de la provincia de Palencia en España Tuvo entonces un regular vecindario, iglesia matriz[3], conventos de San Francisco, de la Merced, de San Agustín y Santo Domingo; un hospital de los santos Cosme y Damián; monasterio de Santa Clara ó de Santa Isabel, fundado en 1573, cuyas monjas, á la destrucción de esta ciudad, se trasladaron á Castro y de aquí pasaron á asentarse en la cañada de Santiago en noviembre de 1603; obrajes ó fábricas de paños y lienzos, establecidos en 1573; y poco después una casa de moneda que se situó á una cuadra al oriente de la matriz y en que se acuñaba el celebrado oro de Ponzuelo Habría sido una de las ciudades florecientes de Chile si las hordas de indios que la hostigaron por tres años sucesivos no la hubiesen al fin destruido en octubre de 1602, después de despoblada En este estado permaneció hasta 1792 y de tal modo desamparada que llegó á hacerse desconocido su asiento, cubierto por el espeso bosque que creció entre sus ruinas y el entredicho absoluto en que lo pusieron los naturales comarcanos, apesar de haberse ordenado su repoblación por las repetidas reales cédulas de 8 de agosto de 1723, 5 de abril de 1744 y otra de 1750 Descubierta por fin, mediante la amistad de los caciques Ignuil, Catrigual y Carniguán, se tomó posesión de su sitio el 22 de noviembre de 1792, habiendo esos mismos caciques cedido para formar los términos de la ciudad la comarca que encierran el Río Bueno, Pilmaiquén y Rahue Desde luego se construyó un fuerte, cuyos vestigios se conservaban en 1859 á la parte occidental de la población sobre la barranca misma del Rahue, y comenzaron á establecerse algunos moradores; pero el acta de repoblación no se expidió sino el 13 de enero de 1796, por cuyo tiempo el Presidente O'Higgins había trasladado y asentado en ella un vecindario de más de 600 personas, lo que le valió el título de marqués de Osorno Al principio fué una colonia bajo la dependencia del virrey del Perú, de la que se desprendió por la real cédula de 28 de mayo de 1802 Durante la administración del Presidente Montt adquirió algún incremento, con el establecimiento de colonos alemanes en ella y campos vecinos": {
-         "type": null,
-         "definition": "Contiene una población de 3,097 habitantes, sencillos edificios públicos, escuelas gratuitas para uno y otro sexo, oficinas de registro civil, de correo y telégrafo, cementerios católico y protestante con sus respectivas capillas, fábricas de cerveza y de otras producciones industriales, y á tres manzanas al oriente de su iglesia parroquial posee un hermoso convento de misioneros franciscanos, construido conforme al decreto de 2 de noviembre de 1844, dos años más tarde, y también una iglesia protestante inaugurada el 25 de diciembre de 1868 Su clima es muy sano y templado, aunque regularmente lluvioso En sus términos se produce buen trigo, cebada, legumbres, manzanas de que se hace excelente cidra, lino, &c; y abundan en hermoso ganado vacuno, maderas, &c Puede comunicarse con el Río Bueno navegando el Rahue Dista sobre 115 kilómetros al N de Puerto-Montt, teniendo de por medio á Cancura, Octay y el lago de Llanquihue, y 45 al S de la villa de la Unión Esta ciudad fué mandada establecer la primera vez por Don Pedro de Valdivia con la denominación de Santa Marina de Gaete, en honor de su esposa; y al efecto pasó á fundarla en 1553 Don Francisco de Villagrán alcanzando á echar sólo sus cimientos en su actual sitio, llamado por los naturales Chauracahuín, cuando tuvo que abandonarla á consecuencia de la muerte de aquel Don García Hurtado de Mendoza renovó el proyecto, y la fundó efectivamente por medio del capitán Alonso de Ortiz en 27 de marzo de 1558, pero con el título de ciudad de San Mateo de Osorno, en obsequio á su abuelo, el antiguo conde de Osorno, de un lugar de este nombre de la provincia de Palencia en España Tuvo entonces un regular vecindario, iglesia matriz[3], conventos de San Francisco, de la Merced, de San Agustín y Santo Domingo; un hospital de los santos Cosme y Damián; monasterio de Santa Clara ó de Santa Isabel, fundado en 1573, cuyas monjas, á la destrucción de esta ciudad, se trasladaron á Castro y de aquí pasaron á asentarse en la cañada de Santiago en noviembre de 1603; obrajes ó fábricas de paños y lienzos, establecidos en 1573; y poco después una casa de moneda que se situó á una cuadra al oriente de la matriz y en que se acuñaba el celebrado oro de Ponzuelo Habría sido una de las ciudades florecientes de Chile si las hordas de indios que la hostigaron por tres años sucesivos no la hubiesen al fin destruido en octubre de 1602, después de despoblada En este estado permaneció hasta 1792 y de tal modo desamparada que llegó á hacerse desconocido su asiento, cubierto por el espeso bosque que creció entre sus ruinas y el entredicho absoluto en que lo pusieron los naturales comarcanos, apesar de haberse ordenado su repoblación por las repetidas reales cédulas de 8 de agosto de 1723, 5 de abril de 1744 y otra de 1750 Descubierta por fin, mediante la amistad de los caciques Ignuil, Catrigual y Carniguán, se tomó posesión de su sitio el 22 de noviembre de 1792, habiendo esos mismos caciques cedido para formar los términos de la ciudad la comarca que encierran el Río Bueno, Pilmaiquén y Rahue Desde luego se construyó un fuerte, cuyos vestigios se conservaban en 1859 á la parte occidental de la población sobre la barranca misma del Rahue, y comenzaron á establecerse algunos moradores; pero el acta de repoblación no se expidió sino el 13 de enero de 1796, por cuyo tiempo el Presidente O'Higgins había trasladado y asentado en ella un vecindario de más de 600 personas, lo que le valió el título de marqués de Osorno Al principio fué una colonia bajo la dependencia del virrey del Perú, de la que se desprendió por la real cédula de 28 de mayo de 1802 Durante la administración del Presidente Montt adquirió algún incremento, con el establecimiento de colonos alemanes en ella y campos vecinos",
-         "page": "494"
+         "definition": "Ciudad, capital del departamento de su nombre. Está situada por 40º 35' Lat. y 73º 10' Lon. y ocupa una llanura á 25 metros sobre el nivel del Pacífico á la orilla norte ó derecha del río Rahue, y á la del sur del de las Damas, que confluye inmediatamente en su lado occidental. Su plano es de una forma regular, y lo cortan calles rectas y de buen ancho de las cuales seis corren de E. a O. y doce de N. á S., dejando manzanas de 116 metros por costado. En el centro queda su plaza principal en cuyo lado oriental se halla la iglesia parroquial sobre el mismo sitio de la primitiva, que se destinó á servir de catedral al tiempo de la primera fundación de esta ciudad. Se ha edificado bajo el mismo plan de la antigua, con dos torres y tres naves divididas por gruesas columnas cuadradas todas, igualmente que las murallas, de una piedra arenisca compacta llamada cancagua, empleándose en su mayor parte los propios materiales que sirvieron para aquella iglesia, y de la cual se preserva la primera pila bautismal, hecha también de un trozo de dicha piedra. En el costado del poniente de la plaza existían en 1859 restos de la casa de gobierno y cárcel, en cuyo frontispicio se leía el siguiente memorandum de su repoblación: Contiene una población de 3,097 habitantes, sencillos edificios públicos, escuelas gratuitas para uno y otro sexo, oficinas de registro civil, de correo y telégrafo, cementerios católico y protestante con sus respectivas capillas, fábricas de cerveza y de otras producciones industriales, y á tres manzanas al oriente de su iglesia parroquial posee un hermoso convento de misioneros franciscanos, construido conforme al decreto de 2 de noviembre de 1844, dos años más tarde, y también una iglesia protestante inaugurada el 25 de diciembre de 1868 Su clima es muy sano y templado, aunque regularmente lluvioso En sus términos se produce buen trigo, cebada, legumbres, manzanas de que se hace excelente cidra, lino, &c; y abundan en hermoso ganado vacuno, maderas, &c Puede comunicarse con el Río Bueno navegando el Rahue Dista sobre 115 kilómetros al N de Puerto-Montt, teniendo de por medio á Cancura, Octay y el lago de Llanquihue, y 45 al S de la villa de la Unión Esta ciudad fué mandada establecer la primera vez por Don Pedro de Valdivia con la denominación de Santa Marina de Gaete, en honor de su esposa; y al efecto pasó á fundarla en 1553 Don Francisco de Villagrán alcanzando á echar sólo sus cimientos en su actual sitio, llamado por los naturales Chauracahuín, cuando tuvo que abandonarla á consecuencia de la muerte de aquel Don García Hurtado de Mendoza renovó el proyecto, y la fundó efectivamente por medio del capitán Alonso de Ortiz en 27 de marzo de 1558, pero con el título de ciudad de San Mateo de Osorno, en obsequio á su abuelo, el antiguo conde de Osorno, de un lugar de este nombre de la provincia de Palencia en España Tuvo entonces un regular vecindario, iglesia matriz[3], conventos de San Francisco, de la Merced, de San Agustín y Santo Domingo; un hospital de los santos Cosme y Damián; monasterio de Santa Clara ó de Santa Isabel, fundado en 1573, cuyas monjas, á la destrucción de esta ciudad, se trasladaron á Castro y de aquí pasaron á asentarse en la cañada de Santiago en noviembre de 1603; obrajes ó fábricas de paños y lienzos, establecidos en 1573; y poco después una casa de moneda que se situó á una cuadra al oriente de la matriz y en que se acuñaba el celebrado oro de Ponzuelo Habría sido una de las ciudades florecientes de Chile si las hordas de indios que la hostigaron por tres años sucesivos no la hubiesen al fin destruido en octubre de 1602, después de despoblada En este estado permaneció hasta 1792 y de tal modo desamparada que llegó á hacerse desconocido su asiento, cubierto por el espeso bosque que creció entre sus ruinas y el entredicho absoluto en que lo pusieron los naturales comarcanos, apesar de haberse ordenado su repoblación por las repetidas reales cédulas de 8 de agosto de 1723, 5 de abril de 1744 y otra de 1750 Descubierta por fin, mediante la amistad de los caciques Ignuil, Catrigual y Carniguán, se tomó posesión de su sitio el 22 de noviembre de 1792, habiendo esos mismos caciques cedido para formar los términos de la ciudad la comarca que encierran el Río Bueno, Pilmaiquén y Rahue Desde luego se construyó un fuerte, cuyos vestigios se conservaban en 1859 á la parte occidental de la población sobre la barranca misma del Rahue, y comenzaron á establecerse algunos moradores; pero el acta de repoblación no se expidió sino el 13 de enero de 1796, por cuyo tiempo el Presidente O'Higgins había trasladado y asentado en ella un vecindario de más de 600 personas, lo que le valió el título de marqués de Osorno Al principio fué una colonia bajo la dependencia del virrey del Perú, de la que se desprendió por la real cédula de 28 de mayo de 1802 Durante la administración del Presidente Montt adquirió algún incremento, con el establecimiento de colonos alemanes en ella y campos vecinos",
+         "page": ["493", "494", "495"]
       },
       "Osorno (Departamento de)": {
          "type": "Departamento",
          "definition": "Uno de los en que se divide la provincia de Llanquihue, y cuya capital es la ciudad de su título. Confina al N. con el departamento de la Unión; al S., con el de Llanquihue por una línea que, desde los Andes, corre al O. por el lago de Rupanco, el curso del río Rahue hasta su confluencia con el Río Negro y de aquí subiendo por este río hasta donde recibe éste al Maipué; y desde esta junta confina también al S. con el departamento de Carelmapu por la continuación de la misma línea que asciende por dicho Maipué hasta su origen y en seguida baja igualmente en su dirección occidental hasta el cabo de San Antonio; al E. termina en la cumbre de los Andes entre el origen del río Golgol y la vertiente oriental que cae al Rupanco; y al O. es bañado por el Pacífico desde la boca del Río Bueno hasta dicho cabo, cuya costa contiene las caletas Condor, Manzano, Milagro, Muicolpué, &c. Comprende una superficie, generalmente quebrada, montañosa y cubierta de bosques, que mide sobre 6,500 kilómetros cuadrados. La atraviesan varias corrientes de agua, como las de los ríos Rahue, Pilmaiquén, Damas, &c. que afluyen directa ó secundariamente en el Río Bueno; el Chalguaco y otros pequeños que caen al Pacífico. En la parte oriental tiene el lago de Llanquihue ó Rupanco y altos montes y excelentes maderas. Es de buena producción agrícola y favorable á la cría de ganados. Lo pueblan 26,223 habitantes, y lo dividen 12 subdelegaciones, de las cuales: las denominadas de Osorno, Cuinco, Damas ó Tufilco y Cancura constituyen el territorio del municipio de su capital; las de Rahue, Maipué y San Juan de la Costa, el de Riachuelo de Maipué; y las de Locutué ó del Roble, Pilmaiquén, Quilacahuín, Tralmahue y Trumag, el del de San Pablo. En este departamento se supuso existir la fabulosa ciudad de los Césares y se trabajaron las ricas minas de Ponzuelo. Quedó sometido á los españoles desde la fundación de su capital pero, abandonado después por cerca de dos siglos, vino á constituirse en un partido por reales órdenes de 7 de diciembre de 1793 y 21 de agosto de 1794 comprendido entre la margen sur del Río Bueno y el Maipué y dependiente del gobierno del Chiloé; mas por otra real orden de 28 de mayo de 1802 se agregó al de Valdivia. En 1853 formó parte del territorio de colonización de Llanquihue, y á la constitución de éste en provincia en 1861, se comprendió en ella como uno de sus tres departamentos.",
-         "page": "494"
+         "page": "495"
       },
       "Osorno (Volcán de)": {
          "type": "Volcán",
@@ -17954,9 +17772,9 @@
          "definition": "Fundo que se halla en el departamento de Osorno, en la ribera norte del río Rahue á unos cuatro kilómetros más abajo del caserío de Cancura. Es contracción de pichileuvu, río chico.  Pichilemo.- Fundo del departamento de Petorca situado á la banda norte del río de este nombre, próximo al O. del fundo de Pedegua. El nombre se forma de pichi y de lemu, bosque, y es pequeño bosque ó bosquecillo.",
          "page": "550"
       },
-      "Pichilemo (Puerto de) Está situado en la costa del departamento de San Fernando por los 34° 23' Lat y 71° 59' Lon y distante 18 kilómetros hacia el N de la laguna de Cáhuil y al O del fundo de Petrel Es de buen fondeadero abrigado para corto número de buques; tiene un regular muelle, construido en 1887, bodegas para depósito de cereales y frutos de los que en abundancia se producen en las vecinas comarcas y un corto caserío con oficina de correo, &c, y es también asiento de municipio, que comprende el territorio de las subdelegaciones de Peña Blanca, Cáhuil y Cocauquén Junto al puerto se forma una laguna salada y pintoresca con la denominación de laguna de Petrel, nombre que antes llevaba el mismo puerto En éste se hizo notar el 25 de marzo de 1887 la entrada y anclaje de un primer vapor mercante Hay en obra una línea férrea, que inició el Presidente Balmaceda, y que se extenderá á unos 85 kilómetros desde la estación de Palmilla hasta él, pasando por Halcones y otros fundos productivos del interior": {
+      "Pichilemo (Puerto de)": {
          "type": "Puerto",
-         "definition": "Pichilemo (Puerto de) Está situado en la costa del departamento de San Fernando por los 34° 23' Lat y 71° 59' Lon y distante 18 kilómetros hacia el N de la laguna de Cáhuil y al O del fundo de Petrel Es de buen fondeadero abrigado para corto número de buques; tiene un regular muelle, construido en 1887, bodegas para depósito de cereales y frutos de los que en abundancia se producen en las vecinas comarcas y un corto caserío con oficina de correo, &c, y es también asiento de municipio, que comprende el territorio de las subdelegaciones de Peña Blanca, Cáhuil y Cocauquén Junto al puerto se forma una laguna salada y pintoresca con la denominación de laguna de Petrel, nombre que antes llevaba el mismo puerto En éste se hizo notar el 25 de marzo de 1887 la entrada y anclaje de un primer vapor mercante Hay en obra una línea férrea, que inició el Presidente Balmaceda, y que se extenderá á unos 85 kilómetros desde la estación de Palmilla hasta él, pasando por Halcones y otros fundos productivos del interior",
+         "definition": "Está situado en la costa del departamento de San Fernando por los 34° 23' Lat y 71° 59' Lon y distante 18 kilómetros hacia el N de la laguna de Cáhuil y al O del fundo de Petrel Es de buen fondeadero abrigado para corto número de buques; tiene un regular muelle, construido en 1887, bodegas para depósito de cereales y frutos de los que en abundancia se producen en las vecinas comarcas y un corto caserío con oficina de correo, &c, y es también asiento de municipio, que comprende el territorio de las subdelegaciones de Peña Blanca, Cáhuil y Cocauquén Junto al puerto se forma una laguna salada y pintoresca con la denominación de laguna de Petrel, nombre que antes llevaba el mismo puerto En éste se hizo notar el 25 de marzo de 1887 la entrada y anclaje de un primer vapor mercante Hay en obra una línea férrea, que inició el Presidente Balmaceda, y que se extenderá á unos 85 kilómetros desde la estación de Palmilla hasta él, pasando por Halcones y otros fundos productivos del interior",
          "page": "550"
       },
       "Pichilumaco": {
@@ -19900,11 +19718,6 @@
          "type": null,
          "definition": "Fundo del departamento de Lontué situado al O. de Molina y á las inmediaciones de los fundos de Peteroa y de los Quillayes del mismo departamento.",
          "page": "604"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "604"
       }
    },
    "Q": {
@@ -20254,17 +20067,7 @@
       },
       "Quiapo": {
          "type": null,
-         "definition": "",
-         "page": "614"
-      },
-      "De la albarrada de Quipeo temida, Donde fué destrozada tanta malla": {
-         "type": null,
-         "definition": "De la albarrada de Quipeo temida, Donde fué destrozada tanta malla",
-         "page": "614"
-      },
-      "En 1566 Rodrigo de Quiroga hizo levantar en este sitio un pequeño fuerte, que fué varias veces destruido por los indios y se abandonó algunos años después El nombre, alterado en Quiapo y Quipeo, era primitivamente Cuyapu ó Cuyamapu, tierra de cuyas, un pequeño cuadrúpedo como la comadreja": {
-         "type": null,
-         "definition": "En 1566 Rodrigo de Quiroga hizo levantar en este sitio un pequeño fuerte, que fué varias veces destruido por los indios y se abandonó algunos años después El nombre, alterado en Quiapo y Quipeo, era primitivamente Cuyapu ó Cuyamapu, tierra de cuyas, un pequeño cuadrúpedo como la comadreja",
+         "definition": "De la albarrada de Quipeo temida, Donde fué destrozada tanta malla. En 1566 Rodrigo de Quiroga hizo levantar en este sitio un pequeño fuerte, que fué varias veces destruido por los indios y se abandonó algunos años después El nombre, alterado en Quiapo y Quipeo, era primitivamente Cuyapu ó Cuyamapu, tierra de cuyas, un pequeño cuadrúpedo como la comadreja",
          "page": "614"
       },
       "Quiapo (Río de)": {
@@ -20938,22 +20741,12 @@
          "type": "Cabo",
          "definition": "6, del capitán Don Antonio de Córdoba.",
          "page": "634"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "634"
       }
    },
    "R": {
       "Rabanal": {
          "type": null,
-         "definition": "Lugar de rábanos.",
-         "page": "635"
-      },
-      "Rabuco Fundo del departamento de Quillota situado á la banda sur del río Aconcagua á unos seis ó siete kilómetros al O de la estación de Ocoa del ferrocarril de Santiago á Valparaíso y á las faldas del nordeste de los cerros de Pocochay Significa manantial de la greda, nombre formado de las palabras araucanas ragh, especie de arcilla, y núvco ó vuco, agua que brota": {
-         "type": null,
-         "definition": "Rabuco Fundo del departamento de Quillota situado á la banda sur del río Aconcagua á unos seis ó siete kilómetros al O de la estación de Ocoa del ferrocarril de Santiago á Valparaíso y á las faldas del nordeste de los cerros de Pocochay Significa manantial de la greda, nombre formado de las palabras araucanas ragh, especie de arcilla, y núvco ó vuco, agua que brota",
+         "definition": "Lugar de rábanos.Rabuco Fundo del departamento de Quillota situado á la banda sur del río Aconcagua á unos seis ó siete kilómetros al O de la estación de Ocoa del ferrocarril de Santiago á Valparaíso y á las faldas del nordeste de los cerros de Pocochay Significa manantial de la greda, nombre formado de las palabras araucanas ragh, especie de arcilla, y núvco ó vuco, agua que brota.",
          "page": "635"
       },
       "Rada Cenagosa": {
@@ -24864,11 +24657,6 @@
          "type": "Isla",
          "definition": "Situada próxima al sudeste de la de Londres al sur del estrecho de Magallanes. No llega su largo á ocho kilómetros ni á cuatro su ancho. Véase islas de Camden.",
          "page": "772"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "772"
       }
    },
    "T": {
@@ -26803,11 +26591,6 @@
          "type": null,
          "definition": "Río del departamento de Cauquenes procedente de las montañas altas por la parte que demoran al O. de la ciudad de este nombre. Corre hacia el E., pasa rodeando los costados del norte y del nordeste de la misma y se echa junto á ella, por el lado oriental, en la izquierda del río llamado asimismo de Cauquenes después de un limitado curso de 20 kilómetros. Poco antes ó á unos cinco kilómetros más arriba de su confluencia recibe del NO. el riachuelo del Rosal, que tiene también su origen en la vertiente oriental de aquellas montañas, pero más al N. que su principal. El nombre, que también designó á la ciudad de Cauquenes en su primer tiempo, parece formado de thuvun, turbio, con el afijo reitarativo tu.",
          "page": "851"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "851"
       }
    },
    "U": {
@@ -26962,11 +26745,6 @@
             "Fundo del departamento de Coelemu situado en la ribera izquierda del río Itata poco más abajo de su confluencia con el Ñuble.",
             "Fundo situado en el departamento de Curicó á poca distancia hacia el E. de la villa de Chépica."
          ],
-         "page": "857"
-      },
-      "": {
-         "type": null,
-         "definition": "",
          "page": "857"
       }
    },
@@ -27815,11 +27593,6 @@
          "type": null,
          "definition": "Véase Palena.",
          "page": "891"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "891"
       }
    },
    "W": {
@@ -27901,11 +27674,6 @@
       "Wren (Secretario)": {
          "type": "Secretario",
          "definition": "Isla pequeña en el estrecho de Magallanes; véase islas de Carlos.",
-         "page": "893"
-      },
-      "": {
-         "type": null,
-         "definition": "",
          "page": "893"
       }
    },
@@ -28103,13 +27871,8 @@
       },
       "Yumbel": {
          "type": null,
-         "definition": "la del norte que contiene el caserío principal en calles más regulares, establecido por acuerdo municipal aprobado en 29 de agosto de 1836, después de arruinada la sección contigua al S. en el terremoto del 20 de febrero de 1835 y que es la que comprende el antiguo asiento de la población. La pueblan 3,393 habitantes, cuenta con apropiados establecimientos públicos, escuelas gratuitas, oficinas de registro civil, de correo y telégrafo y su iglesia parroquial, en la que se venera una efigie de San Sebastian, que tiene la celebridad de haber sido encontrada, después de algunos años, en un pantano de la inmediación de Chillán Viejo en el que se dejó oculta al abandonarlo á causa de los ataques de los indios hacia 1655. Esta ciudad viene trayendo su origen de un fortín que con el nombre de San Felipe de Austria erigió sobre el cerro del Centinela en 1585 el Gobernador Sotomayor, el cual, destruido después por los araucanos, fué reemplazado en 1603 bajo el gobierno de Rivera con otro titulado Santa Lucía de Yumbel. El Presidente Laso de la Vega mejoró este fuerte y lo pobló en 1630 estableciendo en él un tercio ó cuerpo regular de infantería. Mas, trasladado en 1648 ese tercio á Nacimiento, la fortaleza quedó abandonada y destruida hasta que el Presidente Pereda la construyó de nuevo en 1663 con la denominación de Nuestra Señora de Almudena; pero al repoblarla tres años más tarde su sucesor Meneses, le dió el nombre de San Carlos de Austria de Yumbel. Durante ese tiempo y después ella y sus contornos fueron teatro de incidentes de la guerra con los araucanos que la mantuvieron en una condición precaria, hasta el gobierno de Manso de Velasco en que se asentó su población y volvió á tomar el título de Santa Lucia de Yumbel. Erigióla en villa en 1766 el Presidente Guill y Gonzaga y le dió por patrón á San Sebastián. Medró, sin embargo, poco y aún retrasó en la época de la independencia por la alternada ocupación que de ella hacían los patriotas y realistas hasta que el montonero español Pico la quemó á fines de 1820. El terremoto arriba dicho echó por tierra todo lo edificado pero surgió en seguida en la nueva sección donde se construyó su iglesia. Alternó por algún tiempo con la villa de San Luis Gonzaga como capital de su departamento, hasta que el decreto de 2 de junio de 1853 la confirmó en este caracter y el de 19 de marzo de 1871 le confirió el título de ciudad. Dista seis kilómetros hacia el ONO. de la estación de su nombre en el ferrocarril á la ciudad de Concepción, quedando ésta á",
+         "definition": "la del norte que contiene el caserío principal en calles más regulares, establecido por acuerdo municipal aprobado en 29 de agosto de 1836, después de arruinada la sección contigua al S. en el terremoto del 20 de febrero de 1835 y que es la que comprende el antiguo asiento de la población. La pueblan 3,393 habitantes, cuenta con apropiados establecimientos públicos, escuelas gratuitas, oficinas de registro civil, de correo y telégrafo y su iglesia parroquial, en la que se venera una efigie de San Sebastian, que tiene la celebridad de haber sido encontrada, después de algunos años, en un pantano de la inmediación de Chillán Viejo en el que se dejó oculta al abandonarlo á causa de los ataques de los indios hacia 1655. Esta ciudad viene trayendo su origen de un fortín que con el nombre de San Felipe de Austria erigió sobre el cerro del Centinela en 1585 el Gobernador Sotomayor, el cual, destruido después por los araucanos, fué reemplazado en 1603 bajo el gobierno de Rivera con otro titulado Santa Lucía de Yumbel. El Presidente Laso de la Vega mejoró este fuerte y lo pobló en 1630 estableciendo en él un tercio ó cuerpo regular de infantería. Mas, trasladado en 1648 ese tercio á Nacimiento, la fortaleza quedó abandonada y destruida hasta que el Presidente Pereda la construyó de nuevo en 1663 con la denominación de Nuestra Señora de Almudena; pero al repoblarla tres años más tarde su sucesor Meneses, le dió el nombre de San Carlos de Austria de Yumbel. Durante ese tiempo y después ella y sus contornos fueron teatro de incidentes de la guerra con los araucanos que la mantuvieron en una condición precaria, hasta el gobierno de Manso de Velasco en que se asentó su población y volvió á tomar el título de Santa Lucia de Yumbel. Erigióla en villa en 1766 el Presidente Guill y Gonzaga y le dió por patrón á San Sebastián. Medró, sin embargo, poco y aún retrasó en la época de la independencia por la alternada ocupación que de ella hacían los patriotas y realistas hasta que el montonero español Pico la quemó á fines de 1820. El terremoto arriba dicho echó por tierra todo lo edificado pero surgió en seguida en la nueva sección donde se construyó su iglesia. Alternó por algún tiempo con la villa de San Luis Gonzaga como capital de su departamento, hasta que el decreto de 2 de junio de 1853 la confirmó en este caracter y el de 19 de marzo de 1871 le confirió el título de ciudad. Dista seis kilómetros hacia el ONO. de la estación de su nombre en el ferrocarril á la ciudad de Concepción, quedando ésta á unos 75 hacia el NO; dista también 20 kilómetros hacia el N: de la estación de San Rosendo",
          "page": "898"
-      },
-      "unos 75 hacia el NO; dista también 20 kilómetros hacia el N: de la estación de San Rosendo": {
-         "type": null,
-         "definition": "unos 75 hacia el NO; dista también 20 kilómetros hacia el N: de la estación de San Rosendo",
-         "page": "899"
       },
       "Yumbel (Estación de)": {
          "type": "Estación",
@@ -28171,11 +27934,6 @@
       "Yuyos (Riachuelo de los)": {
          "type": "Riachuelo",
          "definition": "Pequeña corriente de agua que entre las sierras de los Andes se une al Tinguiririca poco más abajo de sus fuentes. Corre por una abra ó valle estrecho que se extiende á corta distancia en dirección del norte.",
-         "page": "900"
-      },
-      "": {
-         "type": null,
-         "definition": "",
          "page": "900"
       }
    },
@@ -28277,11 +28035,16 @@
          "type": null,
          "definition": "Aldea del departamento de Caupolicán situada junto á la margen izquierda del río Cachapual por los 34° 22' Lat. y 71° 10' Lon. Dista unos 30 kilómetros al O. de su capital la ciudad de Rengo y 13 de la aldea de Guacarhue. Contiene una iglesia que fué erigida en vice-parroquial en 18 de mayo de 1847 bajo la advocación de San Alfonso María de Liguori, escuela gratuita, estafeta y 560 habitantes, entre los cuales es notable su ejecución en tocar el harpa; contiene también una de las municipalidades de su departamento. Á unos 14 kilómetros hacia el O. de la aldea se halla en la ribera norte ó derecha del Cachapual la villa de Peumo, cuyo antiguo párroco de apellido Zúñiga, estableció en el asiento de la misma aldea por el año 1765 una capilla y de ella trae su origen este pueblo con el nombre de aquel.",
          "page": "903"
-      },
-      "": {
-         "type": null,
-         "definition": "",
-         "page": "903"
       }
    }
-}
+},
+   {"source":{
+         "Title": "Diccionario Geográfico de la República de Chile",
+         "Author": "Francisco Solano Asta-Buruaga y Cienfuegos",
+         "Date": "1899",
+         "Edition": "SEGUNDA EDICIÓN CORREGIDA Y AUMENTADA. Santiago",
+         "URL": "https://es.wikisource.org/wiki/Diccionario_Geogr%C3%A1fico_de_la_Rep%C3%BAblica_de_Chile",
+         "Consultation": "18/05/2022"
+      }
+   }
+]
