@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from tqdm import tqdm
 import json
 import click
 import spacy
@@ -53,7 +54,7 @@ def sratch_dict():
             print("__ page __ " + letter)
             # soup bs4
             data = BeautifulSoup(req_data.text, 'html.parser')
-            for words in data.find('div', attrs={'class': 'prp-pages-output'}).find_all('p'):
+            for words in tqdm(data.find('div', attrs={'class': 'prp-pages-output'}).find_all('p')):
                 word = [s for s in re.split(r"—|--", words.text)]
                 # cleaning
                 word[0] = word[0].replace('\n', '')
@@ -114,6 +115,8 @@ def sratch_dict():
                         "page": page_n
                     }
                 dictionary_geo[word[0]] = dictionary_word
+        else:
+            print("error : page " + letter)
         dictionary[letter] = dictionary_geo
         # reinitialisation dict
         dictionary_geo = {}
